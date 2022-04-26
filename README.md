@@ -60,6 +60,9 @@ Peru:
 United Kingdom / Great Britain:
 - OVH
 
+United States:
+- DoD
+
 Misc.:
 - Adguard
 - Alternate-DNS
@@ -70,7 +73,6 @@ Misc.:
 - CloudFlare
 - CyberGhost
 - DNSFilter
-- DoD Network
 - Duolingo
 - EdgeUno
 - Facebook
