@@ -9,6 +9,8 @@ Unlagged is a project where you can connect around the world without suffering b
 
 This project IS NOT a VPN or Proxy!
 
+Project Status: Under development & testings
+
 Services that are used right now:
 
 Argentina:
