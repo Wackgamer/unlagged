@@ -62,6 +62,9 @@ South Korea (Asia):
 Peru (South America):
 - Telefonica
 
+Taiwan (Asia):
+- HiNet
+
 United Kingdom / Great Britain (Europe):
 - OVH
 
