@@ -67,6 +67,7 @@ United States (North America):
 
 Misc.:
 - Adguard
+- Akamai
 - Alternate-DNS
 - Amazon
 - AnyDesk
