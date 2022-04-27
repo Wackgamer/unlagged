@@ -9,7 +9,10 @@ Unlagged is a project where you can connect around the world without suffering b
 
 This project IS NOT a VPN or Proxy!
 
-Project Status: Under development & testings
+Project Status: Under development & testings 🔴
+Status emojis:
+- 🔴 Maintenance
+- 🟢 Available
 
 Services that are used for the project right now:
 
