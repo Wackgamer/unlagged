@@ -50,7 +50,7 @@ France (Europe):
 - OVH
 
 Guatemala (Centre America):
-- Megared
+- Redes Hibridas
 
 Italy (Europe):
 - Telecom
