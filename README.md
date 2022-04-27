@@ -1,5 +1,5 @@
-# unlagged
-The unlagged project
+# UnLagged
+The UnLagged project
 
 Warning:
 This project is WIP (Work In Progress)
