@@ -59,6 +59,9 @@ North Korea (Asia):
 South Korea (Asia):
 - Telecom
 
+Sweden (Europe):
+- Telenor
+
 Peru (South America):
 - Telefonica
 
