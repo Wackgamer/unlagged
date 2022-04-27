@@ -13,55 +13,55 @@ Project Status: Under development & testings
 
 Services that are used right now:
 
-Argentina:
+Argentina (South America):
 - Claro
 - Fibertel/Personal
 - Telecentro
 
-Australia:
+Australia (Oceania):
 - Penola
 
-Brazil:
+Brazil (South America):
 - Claronet
 - TIM
 
-Canada:
+Canada (North America):
 - OVH
 
-Chile:
+Chile (South America):
 - miinternet
 
-China:
+China (Asia):
 - Chinaunicom
 - Entrusnetwork
 - Telecom
 
-Costa Rica:
+Costa Rica (Centre America):
 - Instituto Telecom
 
-Spain:
+Spain (Europe):
 - Vodafone
 
-France:
+France (Europe):
 - OVH
 
-Italy:
+Italy (Europe):
 - Telecom
 - Vodafone
 
-North Korea:
+North Korea (Asia):
 - Ryugyong-dong
 
-South Korea:
+South Korea (Asia):
 - Telecom
 
-Peru:
+Peru (South America):
 - Telefonica
 
-United Kingdom / Great Britain:
+United Kingdom / Great Britain (Europe):
 - OVH
 
-United States:
+United States (North America):
 - DoD
 
 Misc.:
