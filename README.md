@@ -77,6 +77,9 @@ United States (North America):
 - OVH
 - T-Mobile
 
+Venezuela (South America):
+- CANTV
+
 Misc.:
 - Adguard
 - Akamai
