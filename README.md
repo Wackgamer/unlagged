@@ -11,7 +11,7 @@ This project IS NOT a VPN or Proxy!
 
 Project Status: Under development & testings
 
-Services that are used right now:
+Services that are used to the project right now:
 
 Argentina (South America):
 - Claro
