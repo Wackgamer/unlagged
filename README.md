@@ -75,6 +75,7 @@ United States (North America):
 - AT&T
 - DoD
 - OVH
+- T-Mobile
 
 Misc.:
 - Adguard
