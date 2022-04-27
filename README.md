@@ -49,6 +49,9 @@ Spain (Europe):
 France (Europe):
 - OVH
 
+Guatemala (Centre America):
+- Megared
+
 Italy (Europe):
 - Telecom
 - Vodafone
