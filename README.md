@@ -56,6 +56,9 @@ Italy (Europe):
 North Korea (Asia):
 - Ryugyong-dong
 
+South Africa (Africa):
+- Vodacom
+
 South Korea (Asia):
 - Telecom
 
