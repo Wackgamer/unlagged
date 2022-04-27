@@ -33,7 +33,7 @@ Chile (South America):
 
 China (Asia):
 - Chinaunicom
-- Entrusnetwork
+- Entrusnet
 - Telecom
 
 Costa Rica (Centre America):
