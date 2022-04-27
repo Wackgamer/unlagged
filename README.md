@@ -23,6 +23,7 @@ Australia:
 
 Brazil:
 - Claronet
+- TIM
 
 Canada:
 - OVH
