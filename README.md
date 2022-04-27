@@ -73,6 +73,7 @@ Sweden (Europe):
 
 Peru (South America):
 - Telefonica
+- Claro
 
 Taiwan (Asia):
 - HiNet
