@@ -1,6 +1,8 @@
 # UnLagged
 The UnLagged project
 
+(This project is an experiment) 🧪
+
 Warning:
 This project is WIP (Work In Progress)
 
