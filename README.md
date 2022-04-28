@@ -32,6 +32,7 @@ Brazil (South America):
 - TIM
 
 Canada (North America):
+- Bell
 - OVH
 
 Chile (South America):
