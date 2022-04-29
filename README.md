@@ -32,6 +32,7 @@ Australia (Oceania):
 
 Brazil (South America):
 - Claronet
+- Flash Fibra
 - TIM
 
 Canada (North America):
