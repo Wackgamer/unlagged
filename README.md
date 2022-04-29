@@ -13,7 +13,7 @@ This project IS NOT a VPN or Proxy!
 
 Project Status: Under development & testings 🔴
 
-If all countries have at least one service, it will be available for you.
+If all countries have at least one service, it will be available for you. 🌎🌍🌏
 
 Status emojis:
 - 🔴 Maintenance
