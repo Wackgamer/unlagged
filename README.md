@@ -97,6 +97,7 @@ United Kingdom / Great Britain (Europe):
 United States (North America):
 - AT&T
 - DoD
+- Joe's Data Center
 - LiquidWeb
 - OVH
 - T-Mobile
