@@ -55,6 +55,9 @@ France (Europe):
 Guatemala (Centre America):
 - Redes Hibridas
 
+Israel (Asia):
+- IUCC (Israel InterUniversity Computation Center)
+
 Italy (Europe):
 - Telecom
 - Vodafone
