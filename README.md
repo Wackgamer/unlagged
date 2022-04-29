@@ -47,6 +47,9 @@ China (Asia):
 Costa Rica (Centre America):
 - Instituto Telecom
 
+Japan (Asia):
+- JCOM
+
 Spain (Europe):
 - Vodafone
 
