@@ -22,6 +22,7 @@ Services that are used for the project right now:
 Argentina (South America):
 - Claro
 - Fibertel/Personal
+- Gigared
 - Telecentro
 
 Australia (Oceania):
