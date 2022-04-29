@@ -58,6 +58,9 @@ Spain (Europe):
 France (Europe):
 - OVH
 
+Germany (Europe):
+- Telekom
+
 Guatemala (Centre America):
 - Redes Hibridas
 
