@@ -72,6 +72,9 @@ Netherlands (Europe):
 North Korea (Asia):
 - Ryugyong-dong
 
+Portugal (Europe):
+- MEO
+
 South Africa (Africa):
 - Vodacom
 
