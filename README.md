@@ -50,12 +50,6 @@ China (Asia):
 Costa Rica (Centre America):
 - Instituto Telecom
 
-Japan (Asia):
-- JCOM
-
-Spain (Europe):
-- Vodafone
-
 France (Europe):
 - OVH
 
@@ -74,6 +68,7 @@ Italy (Europe):
 
 Japan (Asia):
 - BIGBLOBE
+- JCOM
 
 Netherlands (Europe):
 - Ziggo
@@ -83,6 +78,10 @@ North Korea (Asia):
 
 Palestine (Asia):
 - Paltel
+
+Peru (South America):
+- Telefonica
+- Claro
 
 Portugal (Europe):
 - MEO
@@ -94,12 +93,11 @@ South Korea (Asia):
 - Dreammark1
 - Telecom
 
+Spain (Europe):
+- Vodafone
+
 Sweden (Europe):
 - Telenor
-
-Peru (South America):
-- Telefonica
-- Claro
 
 Taiwan (Asia):
 - HiNet
