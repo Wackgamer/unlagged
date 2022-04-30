@@ -78,6 +78,9 @@ Netherlands (Europe):
 North Korea (Asia):
 - Ryugyong-dong
 
+Palestine (Asia):
+- Paltel
+
 Portugal (Europe):
 - MEO
 
