@@ -41,6 +41,7 @@ Canada (North America):
 
 Chile (South America):
 - miinternet
+- Movistar
 
 China (Asia):
 - Chinaunicom
