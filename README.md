@@ -72,6 +72,9 @@ Italy (Europe):
 - Telecom
 - Vodafone
 
+Japan (Asia):
+- BIGBLOBE
+
 Netherlands (Europe):
 - Ziggo
 
