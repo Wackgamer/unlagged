@@ -61,6 +61,9 @@ Germany (Europe):
 Guatemala (Centre America):
 - Redes Hibridas
 
+Honduras (Centre America):
+- Newcom Limited
+
 Israel (Asia):
 - IUCC (Israel InterUniversity Computation Center)
 
