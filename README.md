@@ -135,6 +135,7 @@ Misc.:
 - Facebook
 - G-Corelabs
 - GitHub
+- GoDaddy
 - Google
 - Microsoft
 - Netflix
