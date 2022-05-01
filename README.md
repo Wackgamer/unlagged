@@ -100,6 +100,7 @@ South Korea (Asia):
 - Telecom
 
 Spain (Europe):
+- Telefónica de España
 - Vodafone
 
 Sweden (Europe):
