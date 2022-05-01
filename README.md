@@ -66,6 +66,7 @@ Israel (Asia):
 
 Italy (Europe):
 - Telecom
+- Tiscali
 - Vodafone
 
 Japan (Asia):
