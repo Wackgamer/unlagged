@@ -38,6 +38,7 @@ Brazil (South America):
 Canada (North America):
 - Bell
 - OVH
+- Start Communications
 
 Chile (South America):
 - miinternet
