@@ -119,6 +119,7 @@ United States (North America):
 - Comcast
 - DoD
 - Joe's Data Center
+- Linode
 - LiquidWeb
 - OVH
 - T-Mobile
