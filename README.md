@@ -56,6 +56,7 @@ France (Europe):
 - OVH
 
 Germany (Europe):
+- Hetzner
 - Telekom
 
 Guatemala (Centre America):
