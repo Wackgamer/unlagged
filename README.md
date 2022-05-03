@@ -119,7 +119,7 @@ Sweden (Europe):
 Taiwan (Asia):
 - HiNet
 
-United Kingdom / Great Britain (Europe):
+United Kingdom (Europe):
 - OVH
 - Sky
 
