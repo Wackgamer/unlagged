@@ -65,6 +65,9 @@ Guatemala (Centre America):
 Honduras (Centre America):
 - Newcom Limited
 
+India (Asia):
+- Sify Limited
+
 Israel (Asia):
 - IUCC (Israel InterUniversity Computation Center)
 
