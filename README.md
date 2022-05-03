@@ -93,6 +93,9 @@ Peru (South America):
 - Telefonica
 - Claro
 
+Poland (Europe):
+- UPC Polska
+
 Portugal (Europe):
 - MEO
 
