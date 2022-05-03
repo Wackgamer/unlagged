@@ -121,6 +121,7 @@ Taiwan (Asia):
 
 United Kingdom / Great Britain (Europe):
 - OVH
+- Sky
 
 United States (North America):
 - AT&T
