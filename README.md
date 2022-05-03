@@ -77,6 +77,9 @@ Japan (Asia):
 - BIGBLOBE
 - JCOM
 
+Malta (Europe):
+- Melita
+
 Netherlands (Europe):
 - Ziggo
 
