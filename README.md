@@ -130,9 +130,9 @@ United States (North America):
 - Joe's Data Center
 - Linode
 - LiquidWeb
+- Nuclear Fallout
 - OVH
 - T-Mobile
-- Nuclear Fallout
 
 Venezuela (South America):
 - CANTV
