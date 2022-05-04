@@ -141,6 +141,9 @@ United States (North America):
 Venezuela (South America):
 - CANTV
 
+Vietnam (Asia):
+- Viettel Group
+
 Misc.:
 - Adguard
 - Akamai
