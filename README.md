@@ -25,6 +25,7 @@ Argentina (South America):
 - Claro
 - Fibertel/Personal
 - Gigared
+- Pulsar Consulting
 - Telecentro
 
 Australia (Oceania):
