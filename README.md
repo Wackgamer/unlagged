@@ -59,6 +59,7 @@ France (Europe):
 Germany (Europe):
 - Hetzner
 - Telekom
+- Vodafone
 
 Guatemala (Centre America):
 - Redes Hibridas
