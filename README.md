@@ -127,6 +127,7 @@ United Kingdom (Europe):
 
 United States (North America):
 - AT&T
+- CET (Cutting Edge Communications)
 - CenturyLink
 - Comcast
 - DoD
