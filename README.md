@@ -37,6 +37,7 @@ Brazil (South America):
 
 Canada (North America):
 - Bell
+- Linode
 - OVH
 - Start Communications
 
