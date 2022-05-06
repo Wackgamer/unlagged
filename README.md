@@ -86,6 +86,9 @@ Japan (Asia):
 Malta (Europe):
 - Melita
 
+Mexico (North America):
+- Telmex
+
 Netherlands (Europe):
 - Ziggo
 
