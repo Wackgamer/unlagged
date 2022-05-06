@@ -110,6 +110,7 @@ Portugal (Europe):
 - MEO
 
 Russia (Europe-Asia):
+- Rostelecom
 - RS-Media
 
 South Africa (Africa):
