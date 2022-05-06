@@ -34,6 +34,7 @@ Australia (Oceania):
 Brazil (South America):
 - Claronet
 - Flash Fibra
+- Lider Net
 - TIM
 
 Canada (North America):
