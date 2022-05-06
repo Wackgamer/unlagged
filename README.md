@@ -109,6 +109,9 @@ Poland (Europe):
 Portugal (Europe):
 - MEO
 
+Russia (Europe-Asia):
+- RS-Media
+
 South Africa (Africa):
 - Vodacom
 
