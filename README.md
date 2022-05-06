@@ -133,6 +133,9 @@ Taiwan (Asia):
 Thailand (Asia):
 - 3BB
 
+Ukraine (Europe):
+- SimStar
+
 United Kingdom (Europe):
 - OVH
 - Sky
@@ -149,9 +152,6 @@ United States (North America):
 - Nuclear Fallout
 - OVH
 - T-Mobile
-
-Ukraine (Europe):
-- SimStar
 
 Venezuela (South America):
 - CANTV
