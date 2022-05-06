@@ -150,6 +150,9 @@ United States (North America):
 - OVH
 - T-Mobile
 
+Ukraine (Europe):
+- SimStar
+
 Venezuela (South America):
 - CANTV
 
