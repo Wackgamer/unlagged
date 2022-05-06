@@ -110,6 +110,7 @@ Portugal (Europe):
 - MEO
 
 Russia (Europe-Asia):
+- JSC Ufanet
 - Rostelecom
 - RS-Media
 
