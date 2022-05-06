@@ -125,6 +125,9 @@ Sweden (Europe):
 Taiwan (Asia):
 - HiNet
 
+Thailand (Asia):
+- 3BB
+
 United Kingdom (Europe):
 - OVH
 - Sky
