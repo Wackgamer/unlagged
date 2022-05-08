@@ -147,6 +147,7 @@ United States (North America):
 - CenturyLink
 - Comcast
 - DoD
+- Fastly
 - Joe's Data Center
 - Linode
 - LiquidWeb
