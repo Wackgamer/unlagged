@@ -30,6 +30,7 @@ Argentina (South America):
 
 Australia (Oceania):
 - Penola
+- Vocus
 
 Brazil (South America):
 - Claronet
