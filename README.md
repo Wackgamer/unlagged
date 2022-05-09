@@ -55,6 +55,9 @@ China (Asia):
 Costa Rica (Centre America):
 - Instituto Telecom
 
+Denmark (Europe):
+- TDC
+
 France (Europe):
 - OVH
 
