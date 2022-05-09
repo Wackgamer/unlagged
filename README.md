@@ -94,6 +94,9 @@ Malta (Europe):
 Mexico (North America):
 - Telmex
 
+Morocco (Africa):
+- Maroc Telecom
+
 Netherlands (Europe):
 - Ziggo
 
