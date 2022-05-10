@@ -99,6 +99,9 @@ Mexico (North America):
 Morocco (Africa):
 - Maroc Telecom
 
+Norway (Europe):
+- Helse Vest
+
 Netherlands (Europe):
 - Ziggo
 
