@@ -21,6 +21,9 @@ Status emojis:
 
 Services that are used for the project right now:
 
+Angola (Africa):
+- Telecom
+
 Argentina (South America):
 - Claro
 - DOVAL MANUEL ANGEL (INETGAMING)
