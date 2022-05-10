@@ -165,6 +165,7 @@ United States (North America):
 - OVH
 - State of Wyoming Department A&I
 - T-Mobile
+- Verizon Internet Services
 
 Venezuela (South America):
 - CANTV
