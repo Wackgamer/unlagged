@@ -87,6 +87,7 @@ Italy (Europe):
 Japan (Asia):
 - BIGBLOBE
 - JCOM
+- Softbank BB
 
 Malta (Europe):
 - Melita
