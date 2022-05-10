@@ -23,6 +23,7 @@ Services that are used for the project right now:
 
 Argentina (South America):
 - Claro
+- DOVAL MANUEL ANGEL (INETGAMING)
 - Fibertel/Personal
 - Gigared
 - Pulsar Consulting
