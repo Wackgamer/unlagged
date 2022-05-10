@@ -94,6 +94,7 @@ Malta (Europe):
 - Melita
 
 Mexico (North America):
+- Alestra
 - Telmex
 
 Morocco (Africa):
