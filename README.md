@@ -104,6 +104,7 @@ Morocco (Africa):
 - Maroc Telecom
 
 Netherlands (Europe):
+- KPN
 - Ziggo
 
 North Korea (Asia):
