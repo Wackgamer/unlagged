@@ -99,14 +99,14 @@ Mexico (North America):
 Morocco (Africa):
 - Maroc Telecom
 
-Norway (Europe):
-- Helse Vest
-
 Netherlands (Europe):
 - Ziggo
 
 North Korea (Asia):
 - Ryugyong-dong
+
+Norway (Europe):
+- Helse Vest
 
 Palestine (Asia):
 - Paltel
