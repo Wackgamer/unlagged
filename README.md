@@ -171,6 +171,7 @@ United States (North America):
 - Comcast
 - DoD
 - Fastly
+- Frontier Communications
 - Joe's Data Center
 - Linode
 - LiquidWeb
