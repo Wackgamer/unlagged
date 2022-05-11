@@ -168,6 +168,7 @@ United Kingdom (Europe):
 
 United States (North America):
 - AT&T
+- Bethel University
 - CET (Cutting Edge Communications)
 - CenturyLink
 - Comcast
