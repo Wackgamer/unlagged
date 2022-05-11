@@ -131,6 +131,7 @@ Portugal (Europe):
 
 Russia (Europe-Asia):
 - JSC Ufanet
+- MTS
 - Rostelecom
 - RS-Media
 
