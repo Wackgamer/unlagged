@@ -80,6 +80,9 @@ Honduras (Centre America):
 India (Asia):
 - Sify Limited
 
+Iran (Middle East):
+- Telecom
+
 Israel (Asia):
 - IUCC (Israel InterUniversity Computation Center)
 
