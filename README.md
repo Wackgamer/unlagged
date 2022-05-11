@@ -80,7 +80,7 @@ Honduras (Centre America):
 India (Asia):
 - Sify Limited
 
-Iran (Middle East):
+Iran (Asia):
 - Telecom
 
 Israel (Asia):
