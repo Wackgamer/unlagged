@@ -21,6 +21,9 @@ Status emojis:
 
 Services that are used for the project right now:
 
+Albania (Europe):
+- NEWAVE
+
 Angola (Africa):
 - Telecom
 
