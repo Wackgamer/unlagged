@@ -63,6 +63,9 @@ China (Asia):
 Costa Rica (Centre America):
 - Instituto Telecom
 
+Czech Republic (Europe):
+- Futruy
+
 Denmark (Europe):
 - TDC
 
