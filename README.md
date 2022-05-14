@@ -164,6 +164,7 @@ Thailand (Asia):
 - 3BB
 
 Ukraine (Europe):
+- Kyivstar
 - Private Joint Stock
 - SimStar
 - TOV BF Express
