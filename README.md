@@ -142,6 +142,9 @@ Russia (Europe-Asia):
 - Rostelecom
 - RS-Media
 
+Slovakia (Europe):
+- LAST MILE
+
 South Africa (Africa):
 - Vodacom
 
