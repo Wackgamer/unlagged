@@ -42,6 +42,7 @@ Australia (Oceania):
 Brazil (South America):
 - Claronet
 - Flash Fibra
+- Gamers Club
 - Lider Net
 - TIM
 
