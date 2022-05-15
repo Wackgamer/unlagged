@@ -109,6 +109,7 @@ Malta (Europe):
 Mexico (North America):
 - Alestra
 - Telmex
+- Universidad Autonoma de Queretaro
 
 Morocco (Africa):
 - Maroc Telecom
