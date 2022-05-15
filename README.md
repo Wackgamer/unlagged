@@ -187,6 +187,7 @@ United States (North America):
 - CenturyLink
 - Comcast
 - DoD
+- EdgeUno
 - Fastly
 - Frontier Communications
 - Joe's Data Center
