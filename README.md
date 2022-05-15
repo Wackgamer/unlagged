@@ -180,6 +180,7 @@ United Kingdom (Europe):
 United States (North America):
 - AT&T
 - Bethel University
+- Blizzard
 - CET (Cutting Edge Communications)
 - CenturyLink
 - Comcast
