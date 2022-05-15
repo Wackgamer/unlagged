@@ -115,6 +115,7 @@ Morocco (Africa):
 
 Netherlands (Europe):
 - KPN
+- SURFnet
 - Ziggo
 
 North Korea (Asia):
