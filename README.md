@@ -170,6 +170,9 @@ Taiwan (Asia):
 Thailand (Asia):
 - 3BB
 
+Turkey (Middle East):
+- TURKCELL
+
 Ukraine (Europe):
 - Kyivstar
 - Private Joint Stock
