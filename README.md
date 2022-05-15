@@ -123,6 +123,7 @@ North Korea (Asia):
 - Ryugyong-dong
 
 Norway (Europe):
+- Altibox
 - Helse Vest
 
 Palestine (Asia):
