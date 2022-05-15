@@ -196,6 +196,7 @@ United States (North America):
 - OVH
 - Point Broadband
 - Spectrum
+- StackPath
 - State of Wyoming Department A&I
 - T-Mobile
 - Verizon Internet Services
