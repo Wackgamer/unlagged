@@ -193,6 +193,7 @@ United States (North America):
 - Linode
 - LiquidWeb
 - Nuclear Fallout
+- Oracle Public Cloud
 - OVH
 - Point Broadband
 - Spectrum
