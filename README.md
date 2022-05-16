@@ -115,6 +115,7 @@ Morocco (Africa):
 - Maroc Telecom
 
 Netherlands (Europe):
+- DigitalOcean
 - KPN
 - SURFnet
 - Ziggo
