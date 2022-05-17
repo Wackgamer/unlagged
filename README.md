@@ -182,6 +182,9 @@ Ukraine (Europe):
 - SimStar
 - TOV BF Express
 
+United Arab Emirates (Middle East):
+- DU Telecom
+
 United Kingdom (Europe):
 - OVH
 - Sky
