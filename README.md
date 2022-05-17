@@ -213,7 +213,7 @@ United States (North America):
 Venezuela (South America):
 - CANTV
 
-Vietnam (Asia):
+Viet Nam (Asia):
 - Viettel Group
 
 Misc.:
