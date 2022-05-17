@@ -40,6 +40,7 @@ Australia (Oceania):
 - Vocus
 
 Brazil (South America):
+- Claro
 - Claronet
 - Flash Fibra
 - Gamers Club
