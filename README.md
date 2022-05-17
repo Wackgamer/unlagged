@@ -214,6 +214,7 @@ Venezuela (South America):
 - CANTV
 
 Viet Nam (Asia):
+- FPT Telecom
 - Viettel Group
 
 Misc.:
