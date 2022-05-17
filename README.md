@@ -84,6 +84,7 @@ Guatemala (Centre America):
 
 Honduras (Centre America):
 - Newcom Limited
+- Telefónica Celular
 
 India (Asia):
 - Sify Limited
