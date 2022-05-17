@@ -32,6 +32,7 @@ Argentina (South America):
 - DOVAL MANUEL ANGEL (INETGAMING)
 - Fibertel/Personal
 - Gigared
+- Merco Comunicaciones
 - Pulsar Consulting
 - Telecentro
 
