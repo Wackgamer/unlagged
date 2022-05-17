@@ -35,6 +35,7 @@ Argentina (South America):
 - Merco Comunicaciones
 - Pulsar Consulting
 - Telecentro
+- Ver Tv
 
 Australia (Oceania):
 - Penola
