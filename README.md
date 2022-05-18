@@ -60,6 +60,7 @@ Canada (North America):
 Chile (South America):
 - miinternet
 - Movistar
+- WOM
 
 China (Asia):
 - Chinaunicom
