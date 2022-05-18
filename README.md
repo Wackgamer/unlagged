@@ -75,7 +75,7 @@ Czech Republic (Europe):
 Denmark (Europe):
 - TDC
 
-Ecuador (America):
+Ecuador (South America):
 - ETAPA EP
 
 France (Europe):
