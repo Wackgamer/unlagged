@@ -44,6 +44,7 @@ Australia (Oceania):
 Brazil (South America):
 - Claro
 - Claronet
+- Conecta Tecnologia
 - Flash Fibra
 - Gamers Club
 - Lider Net
