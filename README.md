@@ -33,6 +33,7 @@ Argentina (South America):
 - ETERNET
 - Fibertel/Personal
 - Gigared
+- GRUPO BARONE
 - Merco Comunicaciones
 - Pulsar Consulting
 - Telecentro
