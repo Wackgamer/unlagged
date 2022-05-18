@@ -75,6 +75,9 @@ Czech Republic (Europe):
 Denmark (Europe):
 - TDC
 
+Ecuador (America):
+- ETAPA EP
+
 France (Europe):
 - OVH
 
