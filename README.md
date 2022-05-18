@@ -91,6 +91,7 @@ France (Europe):
 
 Germany (Europe):
 - Hetzner
+- OVH
 - Telekom
 - Vodafone
 
