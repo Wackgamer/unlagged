@@ -147,6 +147,9 @@ Poland (Europe):
 Portugal (Europe):
 - MEO
 
+Qatar (Middle East):
+- Ooredoo
+
 Russia (Europe-Asia):
 - JSC Ufanet
 - MTS
