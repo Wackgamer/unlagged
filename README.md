@@ -129,6 +129,7 @@ Mexico (North America):
 - Mega Cable
 - Telmex
 - TOTAL PLAY TELECOMUNICACIONES
+- Uninet
 - Universidad Autonoma de Queretaro
 
 Morocco (Africa):
