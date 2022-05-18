@@ -117,6 +117,7 @@ Malta (Europe):
 
 Mexico (North America):
 - Alestra
+- Mega Cable
 - Telmex
 - Universidad Autonoma de Queretaro
 
