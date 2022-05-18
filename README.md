@@ -229,6 +229,7 @@ United States (North America):
 - Joe's Data Center
 - Linode
 - LiquidWeb
+- MediaFire
 - Nuclear Fallout
 - Oracle Public Cloud
 - OVH
