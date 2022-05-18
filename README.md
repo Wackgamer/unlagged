@@ -119,6 +119,7 @@ Mexico (North America):
 - Alestra
 - Mega Cable
 - Telmex
+- TOTAL PLAY TELECOMUNICACIONES
 - Universidad Autonoma de Queretaro
 
 Morocco (Africa):
