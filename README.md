@@ -30,6 +30,7 @@ Angola (Africa):
 Argentina (South America):
 - Claro
 - DOVAL MANUEL ANGEL (INETGAMING)
+- ETERNET
 - Fibertel/Personal
 - Gigared
 - Merco Comunicaciones
