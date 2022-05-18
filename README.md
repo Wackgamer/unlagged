@@ -85,6 +85,7 @@ Denmark (Europe):
 
 Ecuador (South America):
 - ETAPA EP
+- Netlife
 
 France (Europe):
 - OVH
