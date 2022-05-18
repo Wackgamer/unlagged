@@ -29,6 +29,7 @@ Angola (Africa):
 
 Argentina (South America):
 - Claro
+- COOPERATIVA TELEFONICA Y OSPA DE TOSTADO
 - DOVAL MANUEL ANGEL (INETGAMING)
 - ETERNET
 - Fibertel/Personal
