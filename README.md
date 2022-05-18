@@ -67,6 +67,9 @@ China (Asia):
 - Entrusnet
 - Telecom
 
+Colombia (South America):
+- Telmex
+
 Costa Rica (Centre America):
 - Instituto Telecom
 
