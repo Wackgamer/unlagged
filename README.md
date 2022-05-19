@@ -98,6 +98,7 @@ Germany (Europe):
 - Vodafone
 
 Guatemala (Centre America):
+- Claro Guatemala / Telgua
 - Redes Hibridas
 
 Honduras (Centre America):
