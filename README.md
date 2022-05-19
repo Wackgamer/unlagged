@@ -47,6 +47,7 @@ Australia (Oceania):
 - Vocus
 
 Brazil (South America):
+- Avast
 - Claro
 - Claronet
 - Conecta Tecnologia
