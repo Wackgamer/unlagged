@@ -39,6 +39,7 @@ Argentina (South America):
 - Pulsar Consulting
 - Telecentro
 - Teledifusora
+- Telefonica de Argentina
 - Ver Tv
 
 Australia (Oceania):
