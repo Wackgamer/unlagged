@@ -32,7 +32,7 @@ Argentina (South America):
 - COOPERATIVA TELEFONICA Y OSPA DE TOSTADO
 - DOVAL MANUEL ANGEL (INETGAMING)
 - ETERNET
-- Fibertel/Personal
+- Fibertel/Personal / Telecom Argentina
 - Gigared
 - GRUPO BARONE
 - Merco Comunicaciones
