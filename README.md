@@ -132,6 +132,7 @@ Mexico (North America):
 - Alestra
 - Cablevision Red
 - Gestión de direccionamiento UniNet
+- izzi / Cablemas Telecomunicaciones
 - Mega Cable
 - RadioMovil Dipsa
 - Telmex
