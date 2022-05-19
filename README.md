@@ -85,6 +85,9 @@ Czech Republic (Europe):
 Denmark (Europe):
 - TDC
 
+Dominican Republic (Centre America):
+- Claro / Compañía Dominicana de Teléfonos
+
 Ecuador (South America):
 - ETAPA EP
 - Netlife
