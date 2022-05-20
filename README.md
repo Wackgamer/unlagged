@@ -165,6 +165,7 @@ Palestine (Asia):
 - Paltel
 
 Peru (South America):
+- Importaciones Y Exportaciones C.l.k. S.a.c
 - Telefonica
 - Claro
 
