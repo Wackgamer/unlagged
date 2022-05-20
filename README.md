@@ -38,6 +38,7 @@ Argentina (South America):
 - GRUPO BARONE
 - Merco Comunicaciones
 - Pulsar Consulting
+- Red Intercable Digital
 - Telecentro
 - Teledifusora
 - Telefonica de Argentina
