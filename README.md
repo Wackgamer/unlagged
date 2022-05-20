@@ -84,6 +84,7 @@ Costa Rica (Centre America):
 Czech Republic (Europe):
 - AVAST
 - Futruy
+- VSHosting
 
 Denmark (Europe):
 - TDC
