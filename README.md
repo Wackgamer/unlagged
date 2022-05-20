@@ -65,6 +65,7 @@ Canada (North America):
 - Start Communications
 
 Chile (South America):
+- Entel PCS Telecomunicaciones
 - miinternet
 - Movistar
 - WOM
