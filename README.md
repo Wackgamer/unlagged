@@ -166,6 +166,9 @@ Norway (Europe):
 Palestine (Asia):
 - Paltel
 
+Paraguay (South America):
+- Tigo / Telecel
+
 Peru (South America):
 - Importaciones Y Exportaciones C.l.k. S.a.c
 - Telefonica
