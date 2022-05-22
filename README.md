@@ -79,6 +79,7 @@ China (Asia):
 - Telecom
 
 Colombia (South America):
+- EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 - Telmex
 
 Costa Rica (Centre America):
