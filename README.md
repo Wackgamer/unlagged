@@ -174,6 +174,7 @@ Paraguay (South America):
 - Tigo / Telecel
 
 Peru (South America):
+- ENTEL
 - Importaciones Y Exportaciones C.l.k. S.a.c
 - Telefonica
 - Claro
