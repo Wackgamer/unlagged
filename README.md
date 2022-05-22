@@ -70,6 +70,7 @@ Chile (South America):
 - Entel PCS Telecomunicaciones
 - miinternet
 - Movistar
+- VTR Banda Ancha
 - WOM
 
 China (Asia):
