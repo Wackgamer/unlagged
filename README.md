@@ -82,6 +82,7 @@ China (Asia):
 
 Colombia (South America):
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
+- Movistar Colombia / COLOMBIA TELECOMUNICACIONES
 - Telmex
 
 Costa Rica (Centre America):
