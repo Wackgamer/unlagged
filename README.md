@@ -103,6 +103,7 @@ Dominican Republic (Centre America):
 - Claro / Compañía Dominicana de Teléfonos
 
 Ecuador (South America):
+- CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
 - ETAPA EP
 - Netlife
 
