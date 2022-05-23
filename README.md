@@ -61,6 +61,7 @@ Brazil (South America):
 - Microsoft
 - Mob Servicos de Telecomunicacoes
 - TIM
+- Vivo / TELEFÔNICA BRASIL
 
 Canada (North America):
 - Bell
