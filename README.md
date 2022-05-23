@@ -247,6 +247,7 @@ United States (North America):
 - EdgeUno
 - Fastly
 - Frontier Communications
+- GTHost
 - Joe's Data Center
 - Linode
 - LiquidWeb
