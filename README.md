@@ -172,6 +172,7 @@ Palestine (Asia):
 - Paltel
 
 Paraguay (South America):
+- Nucleo
 - Tigo / Telecel
 
 Peru (South America):
