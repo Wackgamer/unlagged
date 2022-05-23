@@ -188,6 +188,7 @@ Paraguay (South America):
 Peru (South America):
 - ENTEL
 - Importaciones Y Exportaciones C.l.k. S.a.c
+- MEGA ANDINA TV
 - Telefonica
 - Claro
 
