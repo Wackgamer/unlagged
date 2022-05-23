@@ -241,6 +241,7 @@ United Kingdom (Europe):
 
 United States (North America):
 - AT&T
+- AVAST
 - Bethel University
 - Blizzard
 - CET (Cutting Edge Communications)
