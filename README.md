@@ -70,7 +70,7 @@ Canada (North America):
 Chile (South America):
 - Entel PCS Telecomunicaciones
 - miinternet
-- Movistar
+- Movistar / TELEFÓNICA CHILE
 - VTR Banda Ancha
 - WOM
 
