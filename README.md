@@ -70,6 +70,7 @@ Brazil (South America):
 
 Canada (North America):
 - Bell
+- EBOX
 - Linode
 - OVH
 - Start Communications
