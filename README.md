@@ -71,6 +71,7 @@ Chile (South America):
 - Entel PCS Telecomunicaciones
 - miinternet
 - Movistar / TELEFÓNICA CHILE
+- Telefonica del Sur
 - VTR Banda Ancha
 - WOM
 
