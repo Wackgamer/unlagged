@@ -58,6 +58,7 @@ Brazil (South America):
 - Flash Fibra
 - Gamers Club
 - Lider Net
+- Microsoft
 - Mob Servicos de Telecomunicacoes
 - TIM
 
