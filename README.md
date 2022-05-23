@@ -51,6 +51,9 @@ Australia (Oceania):
 - Penola
 - Vocus
 
+Bolivia (South America):
+- Entel
+
 Brazil (South America):
 - Avast
 - Claro
