@@ -39,6 +39,7 @@ Argentina (South America):
 - Gigared
 - GRUPO BARONE
 - Merco Comunicaciones
+- NUBICOM
 - Pulsar Consulting
 - Red Intercable Digital
 - Telecentro
