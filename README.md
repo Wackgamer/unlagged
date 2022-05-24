@@ -281,6 +281,9 @@ United States (North America):
 - T-Mobile
 - Verizon Internet Services
 
+Uruguay (South America):
+- Antel / Administracion Nacional de Telecomunicaciones
+
 Venezuela (South America):
 - CANTV
 
