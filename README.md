@@ -228,6 +228,9 @@ Spain (Europe):
 Sweden (Europe):
 - Telenor
 
+Switzerland (Europe):
+- Sunrise
+
 Taiwan (Asia):
 - HiNet
 
