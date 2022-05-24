@@ -97,6 +97,7 @@ Colombia (South America):
 
 Costa Rica (Centre America):
 - Instituto Telecom
+- Tigo / MILLICOM CABLE COSTA RICA
 
 Czech Republic (Europe):
 - AVAST
