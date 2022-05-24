@@ -152,6 +152,9 @@ Japan (Asia):
 - JCOM
 - Softbank BB
 
+Kazakhstan (Centre Asia):
+- JSC ALTEL / Mobile Telecom-Service LLP
+
 Malta (Europe):
 - Melita
 
