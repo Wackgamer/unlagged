@@ -250,6 +250,7 @@ United Arab Emirates (Middle East):
 - DU Telecom
 
 United Kingdom (Europe):
+- EE / Orange WBC Broadband
 - OVH
 - Sky
 
