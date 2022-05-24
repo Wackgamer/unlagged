@@ -54,6 +54,7 @@ Australia (Oceania):
 
 Bolivia (South America):
 - Entel
+- Tigo / Telefonica Celular de Bolivia
 
 Brazil (South America):
 - Avast
