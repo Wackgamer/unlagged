@@ -237,6 +237,7 @@ Switzerland (Europe):
 - Sunrise
 
 Taiwan (Asia):
+- ASIA PACIFIC TELECOM / Asia Pacific On-line Service Inc.
 - HiNet
 
 Thailand (Asia):
