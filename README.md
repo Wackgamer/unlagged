@@ -47,6 +47,7 @@ Argentina (South America):
 - Teledifusora
 - Telefonica de Argentina
 - Ver Tv
+- ZENET
 
 Australia (Oceania):
 - Penola
