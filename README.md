@@ -94,6 +94,7 @@ Colombia (South America):
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 - Movistar Colombia / COLOMBIA TELECOMUNICACIONES
 - Telmex
+- TV AZTECA SUCURSAL COLOMBIA
 
 Costa Rica (Centre America):
 - Instituto Telecom
