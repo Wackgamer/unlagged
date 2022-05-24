@@ -223,6 +223,7 @@ South Korea (Asia):
 - Telecom
 
 Spain (Europe):
+- Orange Espagne / Jazztel mobile services
 - Telefónica de España
 - Vodafone
 
