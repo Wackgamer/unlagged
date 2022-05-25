@@ -155,6 +155,9 @@ Japan (Asia):
 Kazakhstan (Centre Asia):
 - JSC ALTEL / Mobile Telecom-Service LLP
 
+Latvia (Europe):
+- Orion Network Limited
+
 Malta (Europe):
 - Melita
 
