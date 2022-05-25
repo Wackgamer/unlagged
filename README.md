@@ -92,6 +92,7 @@ China (Asia):
 
 Colombia (South America):
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
+- ETB
 - Movistar Colombia / COLOMBIA TELECOMUNICACIONES
 - Telmex
 - TV AZTECA SUCURSAL COLOMBIA
