@@ -291,6 +291,7 @@ United States (North America):
 - Oracle Public Cloud
 - OVH
 - Point Broadband
+- PureVoltage Hosting Inc.
 - Spectrum
 - StackPath
 - State of Wyoming Department A&I
