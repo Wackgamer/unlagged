@@ -13,7 +13,7 @@ This project IS NOT a VPN or Proxy!
 
 Project Status: Under development & testings 🔴
 
-Project Discord: https://github.com/Wackgamer/unlagged/blob/main/discord.md
+Discord: https://github.com/Wackgamer/unlagged/blob/main/discord.md
 
 If all countries have at least one service, it will be available for you. 🌎🌍🌏
 
@@ -143,6 +143,7 @@ Iran (Asia):
 - Telecom
 
 Ireland (Europe):
+- Amazon
 - Demonware Limited / Demonware infrastructure
 
 Israel (Asia):
