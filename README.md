@@ -228,6 +228,9 @@ Russia (Europe-Asia):
 - Rostelecom
 - RS-Media
 
+Singapore (Asia):
+- Amazon
+
 Slovakia (Europe):
 - LAST MILE
 
