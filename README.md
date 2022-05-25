@@ -88,6 +88,7 @@ Chile (South America):
 - WOM
 
 China (Asia):
+- Beijing Guanghuan Xinwang Digital Technology co.Ltd
 - Chinaunicom
 - Entrusnet
 - Telecom
