@@ -154,6 +154,7 @@ Italy (Europe):
 Japan (Asia):
 - BIGBLOBE
 - JCOM
+- NTT PC Communications, Inc.
 - Softbank BB
 
 Kazakhstan (Centre Asia):
