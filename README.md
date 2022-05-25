@@ -140,6 +140,9 @@ India (Asia):
 Iran (Asia):
 - Telecom
 
+Ireland (Europe):
+- Demonware Limited / Demonware infrastructure
+
 Israel (Asia):
 - IUCC (Israel InterUniversity Computation Center)
 
