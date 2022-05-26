@@ -212,6 +212,7 @@ Peru (South America):
 - ENTEL
 - Importaciones Y Exportaciones C.l.k. S.a.c
 - MEGA ANDINA TV
+- P Y D TELECOM S.R.L.
 - Telefonica
 - Claro
 
