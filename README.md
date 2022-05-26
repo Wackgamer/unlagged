@@ -159,6 +159,7 @@ Italy (Europe):
 
 Japan (Asia):
 - BIGBLOBE
+- Japan Network Information Center
 - JCOM
 - NTT PC Communications, Inc.
 - Softbank BB
