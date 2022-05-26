@@ -81,6 +81,7 @@ Canada (North America):
 - Start Communications
 
 Chile (South America):
+- CLARO CHILE S.A.
 - Entel PCS Telecomunicaciones
 - miinternet
 - Movistar / TELEFÓNICA CHILE
