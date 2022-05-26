@@ -69,6 +69,7 @@ Brazil (South America):
 - Lider Net
 - Microsoft
 - Mob Servicos de Telecomunicacoes
+- Telemar Norte Leste S.A.
 - TIM
 - Vivo / TELEFÔNICA BRASIL
 
