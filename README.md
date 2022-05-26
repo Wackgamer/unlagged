@@ -159,7 +159,7 @@ Italy (Europe):
 
 Japan (Asia):
 - BIGBLOBE
-- Japan Network Information Center
+- Japan Network Information Center / UNIADEX, LTD.
 - JCOM
 - NTT PC Communications, Inc.
 - Softbank BB
