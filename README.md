@@ -132,6 +132,7 @@ Germany (Europe):
 Guatemala (Centre America):
 - Claro Guatemala / Telgua
 - Redes Hibridas
+- UFINET Guatemala S. A. / UFINET PANAMA S.A.
 
 Honduras (Centre America):
 - Newcom Limited
