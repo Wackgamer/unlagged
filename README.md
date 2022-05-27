@@ -303,6 +303,7 @@ United States (North America):
 - Blizzard
 - CET (Cutting Edge Communications)
 - CenturyLink
+- Cogent Communications
 - Comcast
 - DoD
 - EdgeUno
