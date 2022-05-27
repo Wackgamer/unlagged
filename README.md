@@ -86,6 +86,7 @@ Chile (South America):
 - miinternet
 - Movistar / TELEFÓNICA CHILE
 - Telefonica del Sur
+- Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
 - VTR Banda Ancha
 - WOM
 
