@@ -137,7 +137,7 @@ France (Europe):
 
 Germany (Europe):
 - Hetzner
-- OVH
+- OVH / OVH GmbH
 - Telekom
 - Vodafone
 
