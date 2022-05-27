@@ -176,6 +176,9 @@ Kazakhstan (Centre Asia):
 - JSC ALTEL / Mobile Telecom-Service LLP
 - TOO B-TEL
 
+Kenya (Africa):
+- Kenya Education Network
+
 Latvia (Europe):
 - Orion Network Limited
 
