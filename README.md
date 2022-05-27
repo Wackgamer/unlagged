@@ -167,6 +167,7 @@ Japan (Asia):
 
 Kazakhstan (Centre Asia):
 - JSC ALTEL / Mobile Telecom-Service LLP
+- TOO B-TEL
 
 Latvia (Europe):
 - Orion Network Limited
