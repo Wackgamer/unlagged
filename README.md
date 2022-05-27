@@ -264,7 +264,7 @@ South Africa (Africa):
 South Korea (Asia):
 - Dreammark1
 - SK Broadband
-- Telecom
+- Korea Telecom
 
 Spain (Europe):
 - Orange Espagne / Jazztel mobile services
