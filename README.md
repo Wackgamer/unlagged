@@ -163,7 +163,7 @@ Japan (Asia):
 - BIGBLOBE
 - Japan Network Information Center / UNIADEX, LTD.
 - JCOM
-- NTT PC Communications, Inc.
+- NTT PC Communications, Inc. / Open Computer Network
 - Softbank BB
 
 Kazakhstan (Centre Asia):
