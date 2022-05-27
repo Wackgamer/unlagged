@@ -325,6 +325,7 @@ United States (North America):
 - StackPath
 - State of Wyoming Department A&I
 - T-Mobile
+- Verizon Business / GLOBAL CONNECT LLC
 - Verizon Internet Services
 
 Uruguay (South America):
