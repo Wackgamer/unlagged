@@ -196,7 +196,7 @@ Mexico (North America):
 - INNOV@ / José Homero Treviño Villaseñor
 - izzi / Cablemas Telecomunicaciones
 - Mega Cable
-- RadioMovil Dipsa
+- RadioMovil Dipsa, S.A. de C.V.
 - Telmex
 - TOTAL PLAY TELECOMUNICACIONES
 - Uninet
