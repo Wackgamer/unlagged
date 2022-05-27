@@ -140,6 +140,9 @@ Germany (Europe):
 - Telekom
 - Vodafone
 
+Greece (Europe):
+- VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA / Hellas On Line S.A.
+
 Guatemala (Centre America):
 - Claro Guatemala / Telgua
 - Redes Hibridas
