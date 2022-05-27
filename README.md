@@ -95,6 +95,7 @@ China (Asia):
 - China Education and Research Network
 - CHINANET-BACKBONE / CHINANET Sichuan province network
 - Chinaunicom
+- China Unicom Beijing province network
 - Entrusnet
 - Telecom
 
