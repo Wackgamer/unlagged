@@ -125,6 +125,9 @@ Ecuador (South America):
 - ETAPA EP
 - Netlife
 
+Finland (Europe):
+- Hetzner
+
 France (Europe):
 - OVH
 
