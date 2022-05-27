@@ -299,6 +299,7 @@ United Kingdom (Europe):
 - Sky
 
 United States (North America):
+- Amazon.com, Inc. / Amazon Data Services NoVa
 - AT&T
 - AVAST
 - Bethel University
@@ -341,36 +342,3 @@ Venezuela (South America):
 Viet Nam (Asia):
 - FPT Telecom
 - Viettel Group
-
-Misc.:
-- Adguard
-- Akamai
-- Alternate-DNS
-- Amazon
-- AnyDesk
-- Apple
-- Clean Browsing
-- CloudFlare
-- CyberGhost
-- DNSFilter
-- Duolingo
-- EdgeUno
-- Facebook
-- G-Corelabs
-- GitHub
-- GoDaddy
-- Google
-- Microsoft
-- Netflix
-- OpenDNS
-- Quad9
-- Riot Games
-- Spotify
-- Steam
-- TikTok
-- Twitch
-- Twitter
-- Valve
-- ExpressVPN
-- Speedify
-- And much more!
