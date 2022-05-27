@@ -310,6 +310,7 @@ United States (North America):
 - Frontier Communications
 - GTHost
 - Joe's Data Center
+- KUBBUR Limited / KVM Group Limited
 - Laboratory Corporation of America
 - Level 3 Parent
 - Linode
