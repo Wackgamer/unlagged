@@ -130,6 +130,7 @@ Finland (Europe):
 
 France (Europe):
 - OVH
+- SFR SA
 
 Germany (Europe):
 - Hetzner
