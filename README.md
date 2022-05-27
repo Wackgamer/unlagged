@@ -335,6 +335,7 @@ United States (North America):
 - T-Mobile
 - Verizon Business / GLOBAL CONNECT LLC
 - Verizon Internet Services
+- zColo / UNIVERSITY TICKETS
 
 Uruguay (South America):
 - Antel / Administracion Nacional de Telecomunicaciones
