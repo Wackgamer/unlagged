@@ -92,6 +92,7 @@ Chile (South America):
 China (Asia):
 - Beijing Guanghuan Xinwang Digital Technology co.Ltd
 - China Education and Research Network
+- CHINANET Sichuan province network
 - Chinaunicom
 - Entrusnet
 - Telecom
