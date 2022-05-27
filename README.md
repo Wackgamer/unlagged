@@ -169,6 +169,7 @@ Japan (Asia):
 - BIGBLOBE
 - Japan Network Information Center / UNIADEX, LTD.
 - JCOM
+- NTT Communications Corporation
 - NTT PC Communications, Inc. / Open Computer Network
 - Softbank BB
 
