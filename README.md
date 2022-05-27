@@ -343,6 +343,7 @@ Uruguay (South America):
 Venezuela (South America):
 - CANTV
 
-Viet Nam (Asia):
+Viet Nam / Vietnam (Asia):
 - FPT Telecom
 - Viettel Group
+- VNPT Corp / Vietnam Posts and Telecommunications Group
