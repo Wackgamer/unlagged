@@ -297,6 +297,7 @@ Taiwan (Asia):
 
 Thailand (Asia):
 - 3BB
+- CS LOXINFO PUBLIC COMPANY LIMITED / CS Loxinfo Public Company Limited
 
 Turkey (Middle East):
 - TURKCELL
