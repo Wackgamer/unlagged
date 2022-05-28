@@ -103,6 +103,7 @@ China (Asia):
 - Telecom
 
 Colombia (South America):
+- Colombia Móvil / Tigo
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 - ETB
 - Movistar Colombia / COLOMBIA TELECOMUNICACIONES
