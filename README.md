@@ -276,6 +276,7 @@ South Africa (Africa):
 
 South Korea (Asia):
 - Dreammark1
+- LG POWERCOMM
 - SK Broadband
 - Korea Telecom
 
