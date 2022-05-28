@@ -134,6 +134,7 @@ Finland (Europe):
 - Hetzner
 
 France (Europe):
+- Orange S.A.
 - OVH / OVH Hispano
 - SFR SA
 
