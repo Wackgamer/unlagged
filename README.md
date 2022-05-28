@@ -69,6 +69,7 @@ Brazil (South America):
 - Flash Fibra
 - Gamers Club
 - Lider Net
+- MAXCON Internet
 - Maxihost LTDA
 - Microsoft
 - Mob Servicos de Telecomunicacoes
