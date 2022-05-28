@@ -146,6 +146,7 @@ Germany (Europe):
 - Hetzner
 - OVH / OVH GmbH
 - Telekom
+- Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. / Sokratesplatz 1
 - Vodafone
 
 Greece (Europe):
