@@ -321,7 +321,7 @@ United States (North America):
 - CET (Cutting Edge Communications)
 - CenturyLink Communications, LLC / Merrill Lynch
 - Cogent Communications
-- Comcast
+- Comcast Cable Communications, LLC
 - DoD
 - EdgeUno
 - Fastly
