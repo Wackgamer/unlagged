@@ -319,7 +319,7 @@ United States (North America):
 - Bethel University
 - Blizzard
 - CET (Cutting Edge Communications)
-- CenturyLink
+- CenturyLink Communications, LLC / Merrill Lynch
 - Cogent Communications
 - Comcast
 - DoD
