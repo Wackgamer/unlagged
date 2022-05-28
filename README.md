@@ -133,7 +133,7 @@ Finland (Europe):
 - Hetzner
 
 France (Europe):
-- OVH
+- OVH / OVH Hispano
 - SFR SA
 
 Germany (Europe):
