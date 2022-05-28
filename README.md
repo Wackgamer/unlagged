@@ -151,6 +151,7 @@ Greece (Europe):
 Guatemala (Centre America):
 - Claro Guatemala / Telgua
 - Redes Hibridas
+- Servicios Innovadores de Comunicación y Entretenimiento, S.A.
 - UFINET Guatemala S. A. / UFINET PANAMA S.A.
 
 Honduras (Centre America):
