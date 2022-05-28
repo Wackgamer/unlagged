@@ -333,6 +333,7 @@ United States (North America):
 - LiquidWeb
 - MediaFire
 - Miami International Airport
+- Michigan State Government
 - Nuclear Fallout
 - Oracle Public Cloud
 - OVH
