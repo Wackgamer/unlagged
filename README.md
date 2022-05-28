@@ -98,6 +98,7 @@ China (Asia):
 - CHINANET-BACKBONE / CHINANET Sichuan province network / YUANYUDIANZICO.,LTD
 - Chinaunicom
 - China Unicom Beijing province network
+- CHINA UNICOM China169 Backbone / China Unicom Jiangsu province network
 - Entrusnet
 - Telecom
 
