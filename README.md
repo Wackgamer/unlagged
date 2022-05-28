@@ -199,6 +199,7 @@ Kenya (Africa):
 
 Latvia (Europe):
 - Orion Network Limited
+- SIA "RMDK" / SIA RMDK
 
 Malta (Europe):
 - Melita
