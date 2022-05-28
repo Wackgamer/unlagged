@@ -96,6 +96,7 @@ Chile (South America):
 China (Asia):
 - Beijing Guanghuan Xinwang Digital Technology co.Ltd
 - China Education and Research Network
+- China Mobile Communications Group Co., Ltd. / China Mobile Communications Corporation
 - CHINANET-BACKBONE / CHINANET Sichuan province network / YUANYUDIANZICO.,LTD
 - Chinaunicom
 - China Unicom Beijing province network
