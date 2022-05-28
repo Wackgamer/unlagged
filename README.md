@@ -180,6 +180,7 @@ Italy (Europe):
 
 Japan (Asia):
 - BIGBLOBE
+- Chubu Telecommunications Company, Inc. / Chubu Telecommunications Co.,Inc.
 - Japan Network Information Center / UNIADEX, LTD.
 - JCOM
 - NTT Communications Corporation
