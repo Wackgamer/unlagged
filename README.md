@@ -278,7 +278,7 @@ South Korea (Asia):
 Spain (Europe):
 - Orange Espagne / Jazztel mobile services
 - Telefónica de España
-- Vodafone
+- VODAFONE ESPANA S.A.U. / Comunitel Global S.A.
 
 Sweden (Europe):
 - Telenor
