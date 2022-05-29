@@ -107,6 +107,7 @@ China (Asia):
 - CHINA UNICOM China169 Backbone / China Unicom Jiangsu province network
 - Entrusnet
 - Telecom
+- Tiggee LLC
 
 Colombia (South America):
 - Colombia Móvil / Tigo
