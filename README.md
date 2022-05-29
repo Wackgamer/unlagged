@@ -300,6 +300,7 @@ Thailand (Asia):
 - CS LOXINFO PUBLIC COMPANY LIMITED / CS Loxinfo Public Company Limited
 
 Turkey (Middle East):
+- CIZGI TELEKOMUNIKASYON ANONIM SIRKETI / Cizgi Telekom A.S.
 - TURKCELL
 
 Ukraine (Europe):
