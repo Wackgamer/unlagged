@@ -51,6 +51,7 @@ Argentina (South America):
 - Telecentro
 - Teledifusora
 - Telefonica de Argentina
+- Telefónica Móviles Argentina S.A. (Movistar Argentina)
 - Ver Tv
 - ZENET
 
