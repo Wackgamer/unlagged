@@ -338,6 +338,7 @@ United States (North America):
 - Linode
 - LiquidWeb
 - MediaFire
+- Mercer Road Corp / Internap Holding LLC
 - Miami International Airport
 - Michigan State Government
 - Nuclear Fallout
