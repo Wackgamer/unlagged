@@ -322,6 +322,7 @@ United Kingdom (Europe):
 United States (North America):
 - Amazon.com, Inc. / Amazon Data Services NoVa
 - AT&T
+- Automattic, Inc
 - AVAST
 - Bethel University
 - Blizzard
