@@ -282,7 +282,7 @@ South Korea (Asia):
 - Korea Telecom
 
 Spain (Europe):
-- Orange Espagne / Jazztel mobile services
+- Orange Espagne / Jazztel mobile services / Jazztel triple play services
 - Telefónica de España
 - VODAFONE ESPANA S.A.U. / Comunitel Global S.A.
 
