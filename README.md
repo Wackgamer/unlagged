@@ -248,7 +248,7 @@ Peru (South America):
 - MEGA ANDINA TV
 - P Y D TELECOM S.R.L.
 - Telefonica
-- Claro
+- America Movil Peru S.A.C. / Claro
 
 Poland (Europe):
 - Academic Computer Centre CYFRONET AGH
