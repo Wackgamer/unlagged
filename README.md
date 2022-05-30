@@ -46,6 +46,7 @@ Argentina (South America):
 - Merco Comunicaciones
 - NODOSUD S.A
 - NUBICOM
+- Patagonia Green S.A.
 - Pulsar Consulting
 - Red Intercable Digital
 - Telecentro
