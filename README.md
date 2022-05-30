@@ -234,6 +234,7 @@ Morocco (Africa):
 Netherlands (Europe):
 - DigitalOcean
 - KPN
+- Microsoft Corporation
 - SURFnet
 - Ziggo
 
