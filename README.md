@@ -192,7 +192,7 @@ Japan (Asia):
 - BIGBLOBE
 - Chubu Telecommunications Company, Inc. / Chubu Telecommunications Co.,Inc.
 - Japan Network Information Center / UNIADEX, LTD.
-- JCOM
+- JCOM Co., Ltd.
 - NTT Communications Corporation
 - NTT PC Communications, Inc. / Open Computer Network
 - Softbank BB
