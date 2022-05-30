@@ -47,6 +47,7 @@ Argentina (South America):
 - NODOSUD S.A
 - NUBICOM
 - Patagonia Green S.A.
+- PROVIDERS S.A.
 - Pulsar Consulting
 - Red Intercable Digital
 - Telecentro
