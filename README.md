@@ -338,6 +338,7 @@ United States (North America):
 - Blizzard
 - CET (Cutting Edge Communications)
 - CenturyLink Communications, LLC / Merrill Lynch
+- Charter Communications Inc
 - Cogent Communications
 - Comcast Cable Communications, LLC
 - DoD
