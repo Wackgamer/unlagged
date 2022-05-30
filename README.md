@@ -82,6 +82,9 @@ Brazil (South America):
 - TIM
 - Vivo / TELEFÔNICA BRASIL
 
+Burkina Faso (Africa):
+- Orange Burkina Faso
+
 Canada (North America):
 - Bell
 - EBOX
