@@ -224,6 +224,9 @@ Mexico (North America):
 - Uninet
 - Universidad Autonoma de Queretaro
 
+Mongolia (Asia):
+- Kewiko LLC
+
 Morocco (Africa):
 - Maroc Telecom
 
