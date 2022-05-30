@@ -313,7 +313,7 @@ Thailand (Asia):
 
 Turkey (Middle East):
 - CIZGI TELEKOMUNIKASYON ANONIM SIRKETI / Cizgi Telekom A.S.
-- TURKCELL
+- Superonline Iletisim Hizmetleri A.S. / Tellcom Main Network Statement / TURKCELL
 
 Ukraine (Europe):
 - Kyivstar
