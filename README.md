@@ -340,6 +340,7 @@ United States (North America):
 - CET (Cutting Edge Communications)
 - CenturyLink Communications, LLC / Merrill Lynch
 - Charter Communications Inc
+- ColoCrossing / IPSERVER WORLD LTD
 - Cogent Communications
 - Comcast Cable Communications, LLC
 - DoD
