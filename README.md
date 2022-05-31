@@ -64,7 +64,7 @@ Bolivia (South America):
 - Tigo / Telefonica Celular de Bolivia
 
 Brazil (South America):
-- Akamai International B.V. / Akamai Technologies
+- Akamai International B.V. / Akamai Technologies, Inc.
 - Avast
 - Claro
 - Claronet
