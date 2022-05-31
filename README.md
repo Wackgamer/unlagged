@@ -93,6 +93,7 @@ Canada (North America):
 Chile (South America):
 - CLARO CHILE S.A.
 - Entel PCS Telecomunicaciones
+- LanProject SPA
 - miinternet
 - Movistar / TELEFÓNICA CHILE
 - Telefonica del Sur
