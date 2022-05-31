@@ -275,7 +275,7 @@ Russia (Europe-Asia):
 - JSC Ufanet
 - MTS
 - Rostelecom
-- RS-Media
+- RS-Media / RS-Media LLC
 
 Singapore (Asia):
 - Amazon
