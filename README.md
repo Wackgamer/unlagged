@@ -218,7 +218,7 @@ Mexico (North America):
 - Cablevision Red
 - Gestión de direccionamiento UniNet
 - INNOV@ / José Homero Treviño Villaseñor
-- izzi / Cablemas Telecomunicaciones
+- izzi / Cablemas Telecomunicaciones / Mexico Red de Telecomunicaciones, S. de R.L. de C.V.
 - Mega Cable
 - RadioMovil Dipsa, S.A. de C.V.
 - Telmex
