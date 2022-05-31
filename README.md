@@ -279,6 +279,7 @@ Russia (Europe-Asia):
 
 Singapore (Asia):
 - Amazon
+- DigitalOcean, LLC
 
 Slovakia (Europe):
 - LAST MILE
