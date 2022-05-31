@@ -348,6 +348,7 @@ United States (North America):
 - Fastly
 - Frontier Communications
 - GTHost
+- Internap Holding LLC / Nuclearfallout Enterprises, Inc.
 - Joe's Data Center
 - KUBBUR Limited / KVM Group Limited
 - Laboratory Corporation of America
@@ -358,7 +359,6 @@ United States (North America):
 - Mercer Road Corp / Internap Holding LLC
 - Miami International Airport
 - Michigan State Government
-- Nuclear Fallout
 - Oracle Public Cloud
 - OVH
 - Point Broadband
