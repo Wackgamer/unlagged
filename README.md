@@ -364,6 +364,7 @@ United States (North America):
 - OVH
 - Point Broadband
 - PureVoltage Hosting Inc.
+- QuadraNet Enterprises LLC / Pingperfect Ltd
 - ReliableSite.Net LLC
 - Spectrum
 - StackPath
