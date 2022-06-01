@@ -73,6 +73,7 @@ Brazil (South America):
 - Conecta Tecnologia
 - Flash Fibra
 - Gamers Club
+- Gold Telecom Ltda
 - Lider Net
 - MAXCON Internet
 - Maxihost LTDA
