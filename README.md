@@ -66,7 +66,7 @@ Bolivia (South America):
 Brazil (South America):
 - Akamai International B.V. / Akamai Technologies, Inc.
 - Avast
-- Claro
+- CLARO S.A.
 - Claronet
 - Conecta Tecnologia
 - Flash Fibra
