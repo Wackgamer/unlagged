@@ -67,6 +67,7 @@ Brazil (South America):
 - Akamai International B.V. / Akamai Technologies, Inc.
 - Avast
 - BRASIL TELECOM COMUNICACAO MULTIMIDIA S.A
+- CERTTO TELECOMUNICAÇÕES LTDA EPP.
 - CLARO S.A.
 - Claronet
 - Conecta Tecnologia
