@@ -37,7 +37,7 @@ Argentina (South America):
 - COPELCO LTDA. (CUTRAL-CO)
 - DOVAL MANUEL ANGEL (INETGAMING)
 - ETERNET
-- Fibertel/Personal / Telecom Argentina
+- Fibertel/Personal / Telecom Argentina / ALDERETE RIVAS JORDAN TOMAS SEBASTIAN (COMUNICATE INTERNET)
 - Gigared
 - GRUPO BARONE
 - Interlink S.R.L.
