@@ -141,6 +141,7 @@ Dominican Republic (Centre America):
 - Claro / Compañía Dominicana de Teléfonos
 
 Ecuador (South America):
+- CONEXIONTOTAL S.A.
 - CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
 - ETAPA EP
 - Netlife
