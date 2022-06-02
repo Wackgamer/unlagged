@@ -44,6 +44,7 @@ Argentina (South America):
 - Merco Comunicaciones
 - NODOSUD S.A
 - NUBICOM
+- NUT HOST SRL
 - Patagonia Green S.A.
 - PROVIDERS S.A.
 - Pulsar Consulting
