@@ -336,6 +336,7 @@ United Kingdom (Europe):
 - Sky
 
 United States (North America):
+- Alaska Communications Systems Group, Inc.
 - Amazon.com, Inc. / Amazon Data Services NoVa
 - AT&T
 - Automattic, Inc
