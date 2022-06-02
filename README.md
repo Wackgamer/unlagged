@@ -197,7 +197,7 @@ Italy (Europe):
 Japan (Asia):
 - BIGBLOBE
 - Chubu Telecommunications Company, Inc. / Chubu Telecommunications Co.,Inc.
-- Japan Network Information Center / UNIADEX, LTD.
+- Japan Network Information Center / UNIADEX, LTD. / Kyoto Sangyo University
 - JCOM Co., Ltd.
 - NTT Communications Corporation
 - NTT PC Communications, Inc. / Open Computer Network
