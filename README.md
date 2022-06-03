@@ -91,6 +91,7 @@ Brazil (South America):
 - Conecta Tecnologia
 - Flash Fibra
 - Gamers Club
+- GIGANET SERVICOS DE INTERNET LTDA ME
 - Gold Telecom Ltda
 - Lider Net
 - MAXCON Internet
