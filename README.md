@@ -61,6 +61,7 @@ Argentina (South America):
 - Telefonía Pública y Privada S.A.
 - Telefonica de Argentina
 - Telefónica Móviles Argentina S.A. (Movistar Argentina)
+- Universidad Nacional de Mar del Plata
 - Ver Tv
 - ZENET
 
