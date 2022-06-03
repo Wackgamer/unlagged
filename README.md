@@ -153,6 +153,7 @@ Finland (Europe):
 - Level 3 Parent, LLC
 
 France (Europe):
+- Level 3 Parent, LLC
 - Orange S.A.
 - OVH / OVH Hispano
 - SFR SA
