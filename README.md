@@ -288,6 +288,7 @@ Peru (South America):
 
 Poland (Europe):
 - Academic Computer Centre CYFRONET AGH
+- NEXET Sp. z o.o.
 - UPC Polska
 
 Portugal (Europe):
