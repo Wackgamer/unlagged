@@ -351,6 +351,7 @@ United States (North America):
 - ColoCrossing / IPSERVER WORLD LTD
 - Cogent Communications
 - Comcast Cable Communications, LLC
+- Cox Communications Inc.
 - DoD
 - EdgeUno
 - Eli Lilly and Company
