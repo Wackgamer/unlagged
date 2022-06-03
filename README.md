@@ -43,6 +43,7 @@ Argentina (South America):
 - Gigared
 - GRUPO BARONE
 - Interlink S.R.L.
+- Lima Video Cable S.A. (Cabletel)
 - Merco Comunicaciones
 - NODOSUD S.A
 - NUBICOM
