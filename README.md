@@ -54,6 +54,7 @@ Argentina (South America):
 - PROVIDERS S.A.
 - Pulsar Consulting
 - Red Intercable Digital
+- SION S.A / Sinectis S.A.
 - Skycorp S.A. / MOSTAZA Y PAN SOCIEDAD ANONIMA
 - TECHTRON ARGENTINA S.A.
 - Telecentro
