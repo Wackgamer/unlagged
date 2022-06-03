@@ -56,7 +56,7 @@ Argentina (South America):
 - Skycorp S.A. / MOSTAZA Y PAN SOCIEDAD ANONIMA
 - TECHTRON ARGENTINA S.A.
 - Telecentro
-- Telecom Argentina S.A. / Universidad de Salta
+- Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios
 - Teledifusora
 - Telefonía Pública y Privada S.A.
 - Telefonica de Argentina / HUAWEI TECH INVESTMENT CO LTD / Arnet S.A.
