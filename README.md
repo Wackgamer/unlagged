@@ -358,6 +358,7 @@ United States (North America):
 - Fastly
 - Frontier Communications
 - GTHost
+- Hughes Network Systems
 - Internap Holding LLC / Nuclearfallout Enterprises, Inc.
 - Joe's Data Center
 - KUBBUR Limited / KVM Group Limited
