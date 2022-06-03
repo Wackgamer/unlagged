@@ -29,7 +29,7 @@ Angola (Africa):
 
 Argentina (South America):
 - ACCESS AIR SOCIEDAD SIMPLE
-- AMX Argentina S.A. / Claro / RYO VALLE SRL
+- AMX Argentina S.A. / Claro / RYO VALLE SRL / GOBIERNO DE LA PROVINCIA DE SAN JUAN ADMINISTRACION CENTRAL
 - Arlink
 - Caleta Video Cable
 - COOP. DE OBRAS Y DESARROLLO DE MAXIMO PAZ
