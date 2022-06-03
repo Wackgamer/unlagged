@@ -59,7 +59,7 @@ Argentina (South America):
 - Telecom Argentina S.A. / Universidad de Salta
 - Teledifusora
 - Telefonía Pública y Privada S.A.
-- Telefonica de Argentina
+- Telefonica de Argentina / HUAWEI TECH INVESTMENT CO LTD
 - Telefónica Móviles Argentina S.A. (Movistar Argentina)
 - Universidad Nacional de Mar del Plata
 - Ver Tv
