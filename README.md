@@ -134,6 +134,7 @@ China (Asia):
 - Entrusnet
 - Telecom
 - Tiggee LLC
+- UNICOM InnerMongolia province network
 
 Colombia (South America):
 - Colombia Móvil / Tigo
