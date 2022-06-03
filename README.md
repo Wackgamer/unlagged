@@ -383,6 +383,7 @@ United States (North America):
 - Tiggee LLC
 - Verizon Business / GLOBAL CONNECT LLC
 - Verizon Internet Services
+- Windstream Communications LLC
 - zColo / UNIVERSITY TICKETS
 
 Uruguay (South America):
