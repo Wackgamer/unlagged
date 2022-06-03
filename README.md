@@ -69,6 +69,7 @@ Argentina (South America):
 - Telefónica Móviles Argentina S.A. (Movistar Argentina)
 - Universidad Nacional de Mar del Plata
 - Ver Tv
+- WICORP SA
 - ZENET
 
 Australia (Oceania):
