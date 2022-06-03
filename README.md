@@ -55,6 +55,7 @@ Argentina (South America):
 - Patagonia Green S.A.
 - PROVIDERS S.A.
 - Pulsar Consulting
+- Red de Interconexion Universitaria
 - Red Intercable Digital
 - RSO APOLO HIDALGO S.R.L.
 - SION S.A / Sinectis S.A.
