@@ -58,6 +58,7 @@ Argentina (South America):
 - Teledifusora
 - Telefonica de Argentina
 - Telefónica Móviles Argentina S.A. (Movistar Argentina)
+- Telefonía Pública y Privada S.A.
 - Ver Tv
 - ZENET
 
