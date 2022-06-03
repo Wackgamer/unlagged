@@ -346,7 +346,7 @@ United States (North America):
 - CET (Cutting Edge Communications)
 - CenturyLink Communications, LLC / Merrill Lynch
 - Charter Communications Inc
-- Cincinnati Bell Telephone Company LLC / Fabulous Furs
+- Cincinnati Bell Telephone Company LLC / Fabulous Furs / Fuse Core Networks
 - Cloudflare, Inc. / APNIC and Cloudflare DNS Resolver project
 - ColoCrossing / IPSERVER WORLD LTD
 - Cogent Communications
