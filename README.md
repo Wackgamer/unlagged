@@ -49,6 +49,7 @@ Argentina (South America):
 - PROVIDERS S.A.
 - Pulsar Consulting
 - Red Intercable Digital
+- TECHTRON ARGENTINA S.A.
 - Telecentro
 - Teledifusora
 - Telefonica de Argentina
