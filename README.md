@@ -31,6 +31,7 @@ Argentina (South America):
 - ACCESS AIR SOCIEDAD SIMPLE
 - AMX Argentina S.A. / Claro / RYO VALLE SRL / GOBIERNO DE LA PROVINCIA DE SAN JUAN ADMINISTRACION CENTRAL
 - Arlink
+- ARSAT - Empresa Argentina de Soluciones Satelitales S.A. / Nahuel Osella
 - Caleta Video Cable
 - COOP. DE OBRAS Y DESARROLLO DE MAXIMO PAZ
 - COOPERATIVA TELEFONICA Y OSPA DE TOSTADO
