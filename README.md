@@ -261,6 +261,7 @@ Morocco (Africa):
 Netherlands (Europe):
 - DigitalOcean
 - KPN
+- LG CNS Europe B.V
 - Microsoft Corporation
 - SURFnet
 - Ziggo
