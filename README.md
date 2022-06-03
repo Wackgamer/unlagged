@@ -41,6 +41,7 @@ Argentina (South America):
 - ETERNET
 - Fibertel/Personal / Telecom Argentina / ALDERETE RIVAS JORDAN TOMAS SEBASTIAN (COMUNICATE INTERNET)
 - Gigared
+- Gimenez Pedro Santiago (Clorindaconectada)
 - GRUPO BARONE
 - Interlink S.R.L.
 - Lima Video Cable S.A. (Cabletel)
