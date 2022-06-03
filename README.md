@@ -52,6 +52,7 @@ Argentina (South America):
 - Red Intercable Digital
 - TECHTRON ARGENTINA S.A.
 - Telecentro
+- Telecom Argentina S.A. / Universidad de Salta
 - Teledifusora
 - Telefonica de Argentina
 - Telefónica Móviles Argentina S.A. (Movistar Argentina)
