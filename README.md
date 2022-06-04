@@ -140,6 +140,7 @@ China (Asia):
 
 Colombia (South America):
 - Colombia Móvil / Tigo
+- COLOMBIA TELECOMUNICACIONES S.A. ESP
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 - ETB
 - Movistar Colombia / COLOMBIA TELECOMUNICACIONES
