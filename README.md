@@ -170,6 +170,9 @@ Ecuador (South America):
 - Netlife
 - SERVICIOS DE TELECOMUNICACIONES ATVCABLE CIA. LTDA. / ECUANET - CORPORACION ECUATORIANA DE INFORMACION
 
+El Salvador (Centre America):
+- DIGICEL S.A. DE C.V.
+
 Finland (Europe):
 - Hetzner
 - Level 3 Parent, LLC
