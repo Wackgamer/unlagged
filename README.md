@@ -254,6 +254,7 @@ Mexico (North America):
 - izzi / Cablemas Telecomunicaciones / Mexico Red de Telecomunicaciones, S. de R.L. de C.V.
 - Mega Cable
 - RadioMovil Dipsa, S.A. de C.V.
+- Telecable del Mineral, S. A. de C.V.
 - Telmex
 - TOTAL PLAY TELECOMUNICACIONES
 - Uninet
