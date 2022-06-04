@@ -74,6 +74,7 @@ Argentina (South America):
 - ZENET
 
 Australia (Oceania):
+- Cenitex
 - Penola
 - Vocus
 
