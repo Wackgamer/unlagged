@@ -221,7 +221,7 @@ Japan (Asia):
 - Chubu Telecommunications Company, Inc. / Chubu Telecommunications Co.,Inc.
 - Japan Network Information Center / UNIADEX, LTD. / Kyoto Sangyo University
 - JCOM Co., Ltd.
-- NTT Communications Corporation
+- NTT Communications Corporation / Open Computer Network
 - NTT PC Communications, Inc. / Open Computer Network
 - Softbank BB
 
