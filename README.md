@@ -114,6 +114,7 @@ Canada (North America):
 - Start Communications
 
 Chile (South America):
+- AIRPOINT TELECOMUNICACIONES LIMITADA
 - CLARO CHILE S.A.
 - Entel PCS Telecomunicaciones
 - LanProject SPA
