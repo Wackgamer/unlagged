@@ -178,6 +178,7 @@ France (Europe):
 - SFR SA
 
 Germany (Europe):
+- Amazon.com, Inc. / A100 ROW GmbH
 - Hetzner
 - OVH / OVH GmbH
 - Telekom
