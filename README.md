@@ -290,6 +290,7 @@ Paraguay (South America):
 - Tigo / Telecel
 
 Peru (South America):
+- BANTEL SAC
 - ENTEL
 - Importaciones Y Exportaciones C.l.k. S.a.c
 - MEGA ANDINA TV
