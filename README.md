@@ -292,6 +292,7 @@ Palestine (Asia):
 - Paltel
 
 Paraguay (South America):
+- FLYTEC TELECOM SOCIEDAD ANONIMA
 - Nucleo
 - Tigo / Telecel
 
