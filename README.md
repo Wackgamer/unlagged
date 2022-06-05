@@ -278,6 +278,9 @@ Netherlands (Europe):
 - SURFnet
 - Ziggo
 
+Nicaragua (Centre America):
+- TECOMUNICA NICARAGUA
+
 North Korea (Asia):
 - Ryugyong-dong
 
