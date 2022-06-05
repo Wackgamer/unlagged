@@ -150,6 +150,7 @@ Colombia (South America):
 - TV AZTECA SUCURSAL COLOMBIA
 
 Costa Rica (Centre America):
+- Cable Tica
 - Instituto Telecom
 - Tigo / MILLICOM CABLE COSTA RICA
 
