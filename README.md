@@ -80,6 +80,7 @@ Australia (Oceania):
 - Vocus
 
 Bolivia (South America):
+- Comteco Ltda
 - Entel
 - Tigo / Telefonica Celular de Bolivia
 
