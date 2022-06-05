@@ -153,6 +153,7 @@ Costa Rica (Centre America):
 - Cable Tica
 - Instituto Telecom
 - Tigo / MILLICOM CABLE COSTA RICA
+- Telecable Economico S.A. / Telecarrier
 
 Czech Republic (Europe):
 - AVAST
