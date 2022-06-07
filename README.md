@@ -189,6 +189,7 @@ France (Europe):
 - SFR SA
 
 Germany (Europe):
+- Akamai International B.V. / Akamai Technologies, Inc.
 - Amazon.com, Inc. / A100 ROW GmbH
 - Hetzner
 - OVH / OVH GmbH
