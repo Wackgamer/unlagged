@@ -418,6 +418,7 @@ United States (North America):
 - Point Broadband
 - PureVoltage Hosting Inc.
 - QuadraNet Enterprises LLC / Pingperfect Ltd
+- Rackspace Hosting
 - ReliableSite.Net LLC
 - Spectrum
 - StackPath
