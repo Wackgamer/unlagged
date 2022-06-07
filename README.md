@@ -184,6 +184,7 @@ Finland (Europe):
 
 France (Europe):
 - Akamai Technologies, Inc.
+- Facebook, Inc.
 - Level 3 Parent, LLC
 - Orange S.A.
 - OVH / OVH Hispano
