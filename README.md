@@ -176,6 +176,7 @@ Ecuador (South America):
 
 El Salvador (Centre America):
 - DIGICEL S.A. DE C.V.
+- MILLICOM CABLE EL SALVADOR S.A. DE C.V. / AMNET TEL y cia S en C de C.V.
 
 Finland (Europe):
 - Hetzner
