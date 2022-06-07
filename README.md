@@ -183,6 +183,7 @@ Finland (Europe):
 - Level 3 Parent, LLC
 
 France (Europe):
+- Akamai Technologies, Inc.
 - Level 3 Parent, LLC
 - Orange S.A.
 - OVH / OVH Hispano
