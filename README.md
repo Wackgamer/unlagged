@@ -79,6 +79,9 @@ Australia (Oceania):
 - Penola
 - Vocus
 
+Belgium (Europe):
+- Google LLC
+
 Bolivia (South America):
 - Comteco Ltda
 - Entel
