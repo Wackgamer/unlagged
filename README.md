@@ -160,6 +160,9 @@ Costa Rica (Centre America):
 - Tigo / MILLICOM CABLE COSTA RICA
 - Telecable Economico S.A. / Telecarrier
 
+Cuba (Caribbean):
+- Empresa de Telecomunicaciones de Cuba, S.A.
+
 Czech Republic (Europe):
 - AVAST
 - Futruy
