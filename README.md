@@ -114,6 +114,7 @@ Burkina Faso (Africa):
 Canada (North America):
 - Bell
 - EBOX
+- GloboTech Communications
 - Linode
 - OVH
 - Start Communications
