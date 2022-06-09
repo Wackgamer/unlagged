@@ -322,6 +322,7 @@ Poland (Europe):
 
 Portugal (Europe):
 - MEO
+- NOWO COMMUNICATIONS, S.A.
 
 Qatar (Middle East):
 - Ooredoo
