@@ -389,6 +389,7 @@ United Kingdom (Europe):
 United States (North America):
 - Alaska Communications Systems Group, Inc.
 - Amazon.com, Inc. / Amazon Data Services NoVa
+- ARIN Operations
 - AT&T
 - Automattic, Inc
 - AVAST
