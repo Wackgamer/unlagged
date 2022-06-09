@@ -125,6 +125,7 @@ Chile (South America):
 - LanProject SPA
 - miinternet
 - Movistar / TELEFÓNICA CHILE
+- Pacifico Cable SPA.
 - SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA. / INTERPIT TELECOMUNICACIONES LTDA
 - Telefonica del Sur
 - Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
