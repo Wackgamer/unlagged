@@ -453,6 +453,7 @@ Uruguay (South America):
 
 Venezuela (South America):
 - CANTV
+- Corporación Telemic C.A.
 
 Viet Nam / Vietnam (Asia):
 - FPT Telecom
