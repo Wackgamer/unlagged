@@ -305,6 +305,9 @@ Norway (Europe):
 Palestine (Asia):
 - Paltel
 
+Panama (Centre America):
+- Cable Onda
+
 Paraguay (South America):
 - FLYTEC TELECOM SOCIEDAD ANONIMA
 - Nucleo
