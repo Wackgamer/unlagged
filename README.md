@@ -202,6 +202,7 @@ France (Europe):
 
 Germany (Europe):
 - Akamai International B.V. / Akamai Technologies, Inc.
+- Akamai Technologies, Inc. Akamai International, BV
 - Amazon.com, Inc. / A100 ROW GmbH
 - Hetzner
 - OVH / OVH GmbH
