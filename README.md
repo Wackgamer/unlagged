@@ -131,7 +131,7 @@ Chile (South America):
 - Telefonica del Sur
 - Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
 - VTR Banda Ancha
-- WOM
+- WOM S.A / CONECT S.A
 
 China (Asia):
 - Beijing Guanghuan Xinwang Digital Technology co.Ltd
