@@ -99,6 +99,7 @@ Brazil (South America):
 - Gamers Club
 - GIGANET SERVICOS DE INTERNET LTDA ME
 - Gold Telecom Ltda
+- IPXO UK LIMITED / Cyber Assets FZCO
 - Lider Net
 - MAXCON Internet
 - Maxihost LTDA
