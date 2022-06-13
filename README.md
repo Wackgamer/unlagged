@@ -423,6 +423,7 @@ United States (North America):
 - Eli Lilly and Company
 - Fastly
 - Frontier Communications
+- GoDaddy.com, LLC / Jolt Media Inc.
 - GTHost
 - Hughes Network Systems
 - Internap Holding LLC / Nuclearfallout Enterprises, Inc.
