@@ -141,7 +141,7 @@ China (Asia):
 - CHINANET-BACKBONE / CHINANET Sichuan province network / YUANYUDIANZICO.,LTD / CHINANET Fujian province network
 - Chinaunicom
 - China Unicom Beijing province network
-- CHINA UNICOM China169 Backbone / China Unicom Jiangsu province network
+- CHINA UNICOM China169 Backbone / China Unicom Jiangsu province network / China Unicom Hebei province network
 - Entrusnet
 - Telecom
 - Tiggee LLC
