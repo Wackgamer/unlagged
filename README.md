@@ -181,6 +181,7 @@ Dominican Republic (Centre America):
 Ecuador (South America):
 - CONEXIONTOTAL S.A.
 - CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+- Ecuadortelecom S.A. / Claro
 - ETAPA EP
 - NEDETEL S.A.
 - Netlife
