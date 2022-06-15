@@ -205,6 +205,7 @@ France (Europe):
 - Orange S.A.
 - OVH / OVH Hispano
 - SFR SA
+- Valve Corporation
 
 Germany (Europe):
 - Akamai International B.V. / Akamai Technologies, Inc.
