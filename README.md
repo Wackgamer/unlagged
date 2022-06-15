@@ -79,6 +79,9 @@ Australia (Oceania):
 - Penola
 - Vocus
 
+Austria (Europe):
+- Valve Corporation
+
 Belgium (Europe):
 - Google LLC
 
