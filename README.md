@@ -51,6 +51,7 @@ Argentina (South America):
 - Merco Comunicaciones
 - Neunet S.A.
 - NODOSUD S.A
+- NORTECH
 - NSS S.A.
 - NUBICOM
 - NUT HOST SRL
