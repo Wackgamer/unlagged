@@ -220,6 +220,7 @@ Germany (Europe):
 - Amazon.com, Inc. / A100 ROW GmbH
 - Hetzner
 - OVH / OVH GmbH
+- proinity GmbH
 - Telekom
 - Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. / Sokratesplatz 1
 - Vodafone
