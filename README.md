@@ -305,6 +305,7 @@ Netherlands (Europe):
 - KPN
 - LG CNS Europe B.V
 - Microsoft Corporation
+- SURF B.V. / SURFnet bv
 - SURFnet
 - Ziggo
 
