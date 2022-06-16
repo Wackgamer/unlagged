@@ -137,6 +137,7 @@ Chile (South America):
 - SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA. / INTERPIT TELECOMUNICACIONES LTDA
 - Telefonica del Sur
 - Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
+- TV Cable Loncomilla S.A. / SOCIEDAD DE SERVICIOS DE COMUNICACIONES TECCOMAX LIMITADA
 - VTR Banda Ancha
 - WOM S.A / CONECT S.A
 
