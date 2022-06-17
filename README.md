@@ -46,6 +46,7 @@ Argentina (South America):
 - Gigared
 - Gimenez Pedro Santiago (Clorindaconectada)
 - GRUPO BARONE
+- InterBS S.R.L. (BAEHOST)
 - Interlink S.R.L.
 - LE FAVI DANIEL OSVALDO / ALFREDO TIJI (NITRONET)
 - Level 3 Parent, LLC / Asociaicion de Cooperativas Arg. Coop. Ltda.
