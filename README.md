@@ -286,6 +286,7 @@ Mexico (North America):
 - Gestión de direccionamiento UniNet
 - INNOV@ / José Homero Treviño Villaseñor
 - izzi / Cablemas Telecomunicaciones / Mexico Red de Telecomunicaciones, S. de R.L. de C.V.
+- Maxcom Telecomunicaciones, S.A.B. de C.V.
 - Mega Cable
 - RadioMovil Dipsa, S.A. de C.V.
 - Telecable del Mineral, S. A. de C.V.
