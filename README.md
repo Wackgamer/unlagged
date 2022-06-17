@@ -362,6 +362,7 @@ Singapore (Asia):
 - DigitalOcean, LLC
 
 Slovakia (Europe):
+- ENERGOTEL a.s. / MARTICO s.r.o.
 - LAST MILE
 
 South Africa (Africa):
