@@ -379,6 +379,7 @@ South Korea (Asia):
 Spain (Europe):
 - Adamo Telecom Iberia S.A.
 - Orange Espagne SA / Jazztel mobile services / Jazztel triple play services
+- PROCONO S.A.
 - Telefónica de España
 - VODAFONE ESPANA S.A.U. / Comunitel Global S.A.
 - XTRA TELECOM S.A. / Xfera Moviles SA / Yoigo
