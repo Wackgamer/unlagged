@@ -424,6 +424,7 @@ United Kingdom (Europe):
 - Sky
 
 United States (North America):
+- Affinity Internet, Inc
 - Alaska Communications Systems Group, Inc.
 - Amazon.com, Inc. / Amazon Data Services NoVa
 - ARIN Operations
