@@ -89,6 +89,9 @@ Australia (Oceania):
 Austria (Europe):
 - Valve Corporation
 
+Bahrain (Middle East):
+- Amazon.com, Inc. / Amazon Data Services Bahrain
+
 Belgium (Europe):
 - Google LLC
 
