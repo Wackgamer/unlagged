@@ -243,6 +243,7 @@ Honduras (Centre America):
 - Telefónica Celular
 
 India (Asia):
+- Amazon.com, Inc. / Amazon Data Services India
 - Sify Limited
 
 Iran (Asia):
