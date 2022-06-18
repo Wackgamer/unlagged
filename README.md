@@ -261,6 +261,7 @@ Italy (Europe):
 - Vodafone
 
 Japan (Asia):
+- Amazon.com, Inc. / Amazon Data Services Japan
 - BIGBLOBE
 - Chubu Telecommunications Company, Inc. / Chubu Telecommunications Co.,Inc.
 - Japan Network Information Center / UNIADEX, LTD. / Kyoto Sangyo University
