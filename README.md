@@ -205,6 +205,9 @@ El Salvador (Centre America):
 - DIGICEL S.A. DE C.V.
 - MILLICOM CABLE EL SALVADOR S.A. DE C.V. / AMNET TEL y cia S en C de C.V.
 
+Estonia (Europe):
+- OU Interframe
+
 Finland (Europe):
 - Hetzner
 - Level 3 Parent, LLC
