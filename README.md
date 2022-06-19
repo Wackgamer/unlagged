@@ -334,6 +334,7 @@ Palestine (Asia):
 - Paltel
 
 Panama (Centre America):
+- Cable & Wireless Panama
 - Cable Onda
 
 Paraguay (South America):
