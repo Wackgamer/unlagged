@@ -34,6 +34,7 @@ Argentina (South America):
 - ARSAT - Empresa Argentina de Soluciones Satelitales S.A. / Nahuel Osella / Ledezma Flora Isabel
 - Caleta Video Cable
 - COOP. DE OBRAS Y DESARROLLO DE MAXIMO PAZ
+- Cooperativa Batan de Obras y Serv. Publicos Ltda
 - Cooperativa Telefónica Pinamar Ltda.
 - COOPERATIVA TELEFONICA Y OSPA DE TOSTADO
 - COOPERATIVA TELEFONICA Y OTROS SERVICIOS DE MONTE HERMOSO LTDA
