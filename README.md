@@ -115,6 +115,7 @@ Brazil (South America):
 - Gamers Club
 - GIGANET SERVICOS DE INTERNET LTDA ME
 - Gold Telecom Ltda
+- Google LLC
 - i3D.net B.V
 - IPXO UK LIMITED / Cyber Assets FZCO
 - Lider Net
