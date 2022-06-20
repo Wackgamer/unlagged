@@ -294,6 +294,7 @@ Malta (Europe):
 Mexico (North America):
 - Alestra
 - ALTAN REDES
+- AT&T COMUNICACIONES DIGITALES S DE RL
 - Cablevision Red
 - Gestión de direccionamiento UniNet
 - INNOV@ / José Homero Treviño Villaseñor
