@@ -61,6 +61,7 @@ Argentina (South America):
 - NSS S.A.
 - NUBICOM
 - NUT HOST SRL
+- OBERCOM S.R.L.
 - Patagonia Green S.A.
 - Pogliotti & Pogliotti Construcciones S.A.
 - PROVIDERS S.A.
