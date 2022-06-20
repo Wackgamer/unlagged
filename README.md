@@ -491,6 +491,7 @@ United States (North America):
 - Verizon Internet Services
 - Windstream Communications LLC
 - zColo / UNIVERSITY TICKETS
+- Zoom Video Communications, Inc
 
 Uruguay (South America):
 - Antel / Administracion Nacional de Telecomunicaciones
