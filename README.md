@@ -222,6 +222,7 @@ France (Europe):
 - Facebook, Inc.
 - Host Europe GmbH
 - Level 3 Parent, LLC
+- MEGA Cloud Services Limited
 - Orange S.A.
 - OVH / OVH Hispano
 - SFR SA
