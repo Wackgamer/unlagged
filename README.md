@@ -32,6 +32,7 @@ Argentina (South America):
 - AMX Argentina S.A. / Claro / RYO VALLE SRL / GOBIERNO DE LA PROVINCIA DE SAN JUAN ADMINISTRACION CENTRAL
 - Arlink
 - ARSAT - Empresa Argentina de Soluciones Satelitales S.A. / Nahuel Osella / Ledezma Flora Isabel
+- AZCARATE JUAN ANTONIO (INTER AGRO)
 - Caleta Video Cable
 - COOP. DE OBRAS Y DESARROLLO DE MAXIMO PAZ
 - Cooperativa Batan de Obras y Serv. Publicos Ltda
