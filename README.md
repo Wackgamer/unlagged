@@ -97,6 +97,7 @@ Bahrain (Middle East):
 
 Belgium (Europe):
 - Google LLC
+- MEGA Cloud Services Limited
 
 Bolivia (South America):
 - Comteco Ltda
