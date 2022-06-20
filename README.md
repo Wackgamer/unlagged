@@ -495,6 +495,7 @@ Venezuela (South America):
 - CANTV
 - Corporación Telemic C.A.
 - Gandalf Comunicaciones C.A.
+- NetLink América C.A.
 
 Viet Nam / Vietnam (Asia):
 - FPT Telecom
