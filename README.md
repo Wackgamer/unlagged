@@ -77,7 +77,7 @@ Argentina (South America):
 - TECHTRON ARGENTINA S.A.
 - Telecentro
 - Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios / Coop.Obras y Serv. Publicos de Despeñaderos Ltda / Internet Services S.A. / RUBORNI S.A. / Apolo -Gold-Telecom-Per / ELSERVER.COM
-- Teledifusora
+- Teledifusora S.A.
 - Telefonía Pública y Privada S.A.
 - Telefonica de Argentina / HUAWEI TECH INVESTMENT CO LTD / Arnet S.A.
 - Telefónica Móviles Argentina S.A. (Movistar Argentina)
