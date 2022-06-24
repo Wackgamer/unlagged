@@ -375,6 +375,7 @@ Qatar (Middle East):
 - Ooredoo
 
 Russia (Europe-Asia):
+- Domain names registrar REG.RU, Ltd
 - JSC Ufanet
 - MTS
 - Rostelecom
