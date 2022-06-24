@@ -388,6 +388,7 @@ Russia (Europe-Asia):
 Singapore (Asia):
 - Amazon
 - DigitalOcean, LLC
+- MobileOne Ltd. Mobile/Internet Service Provider Singapore / M1 LIMITED
 - Singtel Fibre Broadband / SingNet Pte Ltd
 - Starhub Ltd / StarHub Internet Pte Ltd
 
