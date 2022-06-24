@@ -134,7 +134,7 @@ Burkina Faso (Africa):
 - Orange Burkina Faso
 
 Canada (North America):
-- Bell
+- Bell Canada / Bell DSL Internet Ontario
 - EBOX
 - GloboTech Communications
 - Linode
