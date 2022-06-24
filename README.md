@@ -388,6 +388,7 @@ Russia (Europe-Asia):
 Singapore (Asia):
 - Amazon
 - DigitalOcean, LLC
+- Singtel Fibre Broadband / SingNet Pte Ltd
 
 Slovakia (Europe):
 - ENERGOTEL a.s. / MARTICO s.r.o.
