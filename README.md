@@ -375,6 +375,7 @@ Qatar (Middle East):
 - Ooredoo
 
 Russia (Europe-Asia):
+- Business Svyaz / Dmitriy V. Kozmenko
 - Domain names registrar REG.RU, Ltd
 - JSC Ufanet
 - MTS
