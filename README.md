@@ -389,6 +389,7 @@ Singapore (Asia):
 - Amazon
 - DigitalOcean, LLC
 - Singtel Fibre Broadband / SingNet Pte Ltd
+- Starhub Ltd / StarHub Internet Pte Ltd
 
 Slovakia (Europe):
 - ENERGOTEL a.s. / MARTICO s.r.o.
