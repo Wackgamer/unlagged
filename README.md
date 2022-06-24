@@ -401,6 +401,7 @@ South Korea (Asia):
 
 Spain (Europe):
 - Adamo Telecom Iberia S.A.
+- ALTANETICA S.L. / Altanetica S.L., WISP
 - Orange Espagne SA / Jazztel mobile services / Jazztel triple play services
 - PROCONO S.A.
 - Telefónica de España
