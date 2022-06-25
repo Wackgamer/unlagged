@@ -296,6 +296,9 @@ Kazakhstan (Centre Asia):
 Kenya (Africa):
 - Kenya Education Network
 
+Laos (Asia):
+- PO box T511 Phonexay road - Xaysettha district / Asia Pacific Network Information Centre
+
 Latvia (Europe):
 - Orion Network Limited
 - SIA "RMDK" / SIA RMDK
