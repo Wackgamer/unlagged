@@ -93,6 +93,7 @@ Australia (Oceania):
 - Vocus
 
 Austria (Europe):
+- SALZBURG AG fur Energie, Verkehr und Telekommunikation / Ferienclub Bellevue
 - Valve Corporation
 
 Bahrain (Middle East):
