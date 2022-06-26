@@ -116,6 +116,7 @@ Brazil (South America):
 - CLARO S.A.
 - Claronet
 - Conecta Tecnologia
+- Desktop Sigmanet Comunicação Multimídia SA
 - Flash Fibra
 - Gamers Club
 - GIGANET SERVICOS DE INTERNET LTDA ME
