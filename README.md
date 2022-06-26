@@ -386,6 +386,7 @@ Qatar (Middle East):
 Russia (Europe-Asia):
 - Business Svyaz / Dmitriy V. Kozmenko
 - Domain names registrar REG.RU, Ltd
+- Google LLC
 - JSC Ufanet
 - MTS
 - Rostelecom
