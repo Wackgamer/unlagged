@@ -509,6 +509,7 @@ United States (North America):
 - StackPath
 - State of Wyoming Department A&I
 - T-Mobile
+- TELECOM ITALIA SPARKLE S.p.A.
 - The Constant Company, LLC / Choopa LLC / GameServers.com
 - Tiggee LLC
 - Verizon Business / GLOBAL CONNECT LLC
