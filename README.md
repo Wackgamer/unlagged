@@ -504,7 +504,7 @@ United States (North America):
 - StackPath
 - State of Wyoming Department A&I
 - T-Mobile
-- The Constant Company, LLC / Choopa LLC
+- The Constant Company, LLC / Choopa LLC / GameServers.com
 - Tiggee LLC
 - Verizon Business / GLOBAL CONNECT LLC
 - Verizon Internet Services
