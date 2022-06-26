@@ -472,6 +472,7 @@ United States (North America):
 - Cogent Communications
 - Comcast Cable Communications, LLC
 - Cox Communications Inc.
+- Dedicated.com
 - DoD
 - EdgeUno
 - Eli Lilly and Company
