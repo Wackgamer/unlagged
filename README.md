@@ -396,6 +396,7 @@ Singapore (Asia):
 - MobileOne Ltd. Mobile/Internet Service Provider Singapore / M1 LIMITED
 - Singtel Fibre Broadband / SingNet Pte Ltd
 - Starhub Ltd / StarHub Internet Pte Ltd
+- TIKTOK PTE. LTD. / Bytedance Inc.
 
 Slovakia (Europe):
 - ENERGOTEL a.s. / MARTICO s.r.o.
