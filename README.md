@@ -77,7 +77,7 @@ Argentina (South America):
 - Skycorp S.A. / MOSTAZA Y PAN SOCIEDAD ANONIMA
 - TECHTRON ARGENTINA S.A.
 - Telecentro
-- Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios / Coop.Obras y Serv. Publicos de Despeñaderos Ltda / Internet Services S.A. / RUBORNI S.A. / Apolo -Gold-Telecom-Per / ELSERVER.COM
+- Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios / Coop.Obras y Serv. Publicos de Despeñaderos Ltda / Internet Services S.A. / RUBORNI S.A. / Apolo -Gold-Telecom-Per / ELSERVER.COM / Telecom BBIP
 - TELECOM ITALIA SPARKLE S.p.A.
 - Teledifusora S.A.
 - Telefonía Pública y Privada S.A.
