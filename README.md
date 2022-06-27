@@ -133,6 +133,7 @@ Brazil (South America):
 - Telemar Norte Leste S.A.
 - TIM
 - Vivo / TELEFÔNICA BRASIL
+- Zenlayer Inc
 
 Burkina Faso (Africa):
 - Orange Burkina Faso
