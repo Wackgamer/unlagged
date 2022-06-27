@@ -125,6 +125,7 @@ Brazil (South America):
 - Gold Telecom Ltda
 - Google LLC
 - i3D.net B.V
+- InterNexa Global Network / INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A
 - IPXO UK LIMITED / Cyber Assets FZCO
 - Lider Net
 - MAXCON Internet
