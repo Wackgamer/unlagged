@@ -184,6 +184,7 @@ Colombia (South America):
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 - EPM Telecomunicaciones S.A. E.S.P.
 - ETB
+- INTERNEXA S.A. E.S.P
 - Movistar Colombia / COLOMBIA TELECOMUNICACIONES
 - Telmex
 - TV AZTECA SUCURSAL COLOMBIA
