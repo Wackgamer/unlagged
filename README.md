@@ -294,6 +294,7 @@ Japan (Asia):
 - NTT Communications Corporation / Open Computer Network
 - NTT PC Communications, Inc. / Open Computer Network
 - Softbank BB
+- Xserver Inc. / XSERVER Inc.
 
 Kazakhstan (Centre Asia):
 - JSC ALTEL / Mobile Telecom-Service LLP
