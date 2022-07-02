@@ -529,8 +529,8 @@ United States (North America):
 - Zoom Video Communications, Inc
 
 Uruguay (South America):
-- Antel / Administracion Nacional de Telecomunicaciones
 - Administracion Nacional de Telecomunicaciones / CLIENTE ANTEL URUGUAY
+- Antel / Administracion Nacional de Telecomunicaciones
 
 Venezuela (South America):
 - CANTV
