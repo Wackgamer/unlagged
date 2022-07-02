@@ -530,6 +530,7 @@ United States (North America):
 
 Uruguay (South America):
 - Antel / Administracion Nacional de Telecomunicaciones
+- Administracion Nacional de Telecomunicaciones / CLIENTE ANTEL URUGUAY
 
 Venezuela (South America):
 - CANTV
