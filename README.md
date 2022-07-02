@@ -152,6 +152,7 @@ Canada (North America):
 
 Chile (South America):
 - AIRPOINT TELECOMUNICACIONES LIMITADA
+- CARRASCO Y REYES SERVICIOS INFORMÁTICOS LIMITADA
 - CLARO CHILE S.A.
 - Entel PCS Telecomunicaciones
 - LanProject SPA
