@@ -263,6 +263,7 @@ Greece (Europe):
 Guatemala (Centre America):
 - Claro Guatemala / Telgua
 - Redes Hibridas
+- Señal Nacional S.A.
 - Servicios Innovadores de Comunicación y Entretenimiento, S.A. / Tigo
 - UFINET Guatemala S. A. / UFINET PANAMA S.A.
 
