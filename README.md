@@ -145,6 +145,7 @@ Burkina Faso (Africa):
 
 Canada (North America):
 - Bell Canada / Bell DSL Internet Ontario
+- Cloudflare, Inc. / Shopify, Inc.
 - EBOX
 - GloboTech Communications
 - Linode
