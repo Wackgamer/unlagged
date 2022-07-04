@@ -178,6 +178,7 @@ China (Asia):
 - China Unicom Beijing province network
 - CHINA UNICOM China169 Backbone / China Unicom Jiangsu province network / China Unicom Hebei province network
 - Entrusnet
+- Hangzhou Alibaba Advertising Co.,Ltd. / Aliyun Computing Co., LTD
 - Telecom
 - Tiggee LLC
 - UNICOM InnerMongolia province network
