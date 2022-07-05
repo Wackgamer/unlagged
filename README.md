@@ -496,6 +496,7 @@ United States (North America):
 - Fastly
 - Frontier Communications
 - GoDaddy.com, LLC / Jolt Media Inc.
+- Google LLC / Bitly Inc
 - GTHost
 - Hughes Network Systems
 - Incapsula Inc
