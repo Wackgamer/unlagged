@@ -537,6 +537,7 @@ United States (North America):
 Uruguay (South America):
 - Administracion Nacional de Telecomunicaciones / CLIENTE ANTEL URUGUAY
 - Antel / Administracion Nacional de Telecomunicaciones
+- Tecnowind S.A.
 
 Venezuela (South America):
 - CANTV
