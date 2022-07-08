@@ -99,6 +99,9 @@ Austria (Europe):
 - SALZBURG AG fur Energie, Verkehr und Telekommunikation / Ferienclub Bellevue
 - Valve Corporation
 
+Azerbaijan (Europe-Asia):
+- Delta Telecom Ltd / DELTA Satellite Network
+
 Bahrain (Middle East):
 - Amazon.com, Inc. / Amazon Data Services Bahrain
 
