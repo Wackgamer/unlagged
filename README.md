@@ -138,6 +138,7 @@ Brazil (South America):
 - Ired Internet
 - Ivatel Redes e Internet LTDA
 - Lider Net
+- Locaweb Serviços de Internet S/A
 - MAXCON Internet
 - Maxihost LTDA
 - Microsoft
