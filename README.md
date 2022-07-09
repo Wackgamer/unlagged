@@ -132,6 +132,7 @@ Brazil (South America):
 - Google LLC
 - i3D.net B.V
 - InterNexa Global Network / INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A
+- IPV6 Internet Ltda
 - IPXO UK LIMITED / Cyber Assets FZCO
 - Ired Internet
 - Ivatel Redes e Internet LTDA
