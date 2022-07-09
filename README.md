@@ -173,6 +173,7 @@ Chile (South America):
 - Pacifico Cable SPA.
 - PRONTO COMUNICACIONES LIMITADA
 - SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA. / INTERPIT TELECOMUNICACIONES LTDA
+- TELEFÓNICA CHILE S.A.
 - Telefonica del Sur
 - Telmex Chile Internet S.A.
 - Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
