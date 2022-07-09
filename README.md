@@ -175,6 +175,7 @@ Chile (South America):
 - PRONTO COMUNICACIONES LIMITADA
 - SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA. / INTERPIT TELECOMUNICACIONES LTDA
 - TELEFÓNICA CHILE S.A.
+- TELEFÓNICA CHILE S.A. (MAYORISTAS) / Compania de Telefonos de Chile S.A.
 - Telefonica del Sur
 - Telmex Chile Internet S.A.
 - Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
