@@ -131,6 +131,7 @@ Brazil (South America):
 - i3D.net B.V
 - InterNexa Global Network / INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A
 - IPXO UK LIMITED / Cyber Assets FZCO
+- Ired Internet
 - Lider Net
 - MAXCON Internet
 - Maxihost LTDA
