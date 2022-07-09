@@ -133,6 +133,7 @@ Brazil (South America):
 - InterNexa Global Network / INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A
 - IPXO UK LIMITED / Cyber Assets FZCO
 - Ired Internet
+- Ivatel Redes e Internet LTDA
 - Lider Net
 - MAXCON Internet
 - Maxihost LTDA
