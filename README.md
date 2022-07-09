@@ -137,6 +137,7 @@ Brazil (South America):
 - Maxihost LTDA
 - Microsoft
 - Mob Servicos de Telecomunicacoes
+- OI S.A. - EM RECUPERACAO JUDICIAL / Brasil Telecom S/A - Filial Distrito Federal
 - S.F. GOMES TELECOMUNICACOES
 - Telemar Norte Leste S.A.
 - TIM
