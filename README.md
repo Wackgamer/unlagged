@@ -153,6 +153,7 @@ Burkina Faso (Africa):
 - Orange Burkina Faso
 
 Canada (North America):
+- Amazon.com, Inc. / Amazon Data Services Canada
 - Bell Canada / Bell DSL Internet Ontario
 - Cloudflare, Inc. / Shopify, Inc.
 - EBOX
