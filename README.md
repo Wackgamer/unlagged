@@ -126,6 +126,7 @@ Brazil (South America):
 - Desktop Sigmanet Comunicação Multimídia SA
 - Flash Fibra
 - Gamers Club
+- GGNET TELECOM BACKBONE / GGNET TELECOMUNICAÇÕES LTDA
 - GIGANET SERVICOS DE INTERNET LTDA ME
 - Gold Telecom Ltda
 - Google LLC
