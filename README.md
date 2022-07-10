@@ -400,6 +400,7 @@ Peru (South America):
 - Importaciones Y Exportaciones C.l.k. S.a.c
 - MEGA ANDINA TV
 - P Y D TELECOM S.R.L.
+- RED INTERCABLE PERU SAC
 - Telefonica del Peru S.A.A. / PE-TDP-GRS
 - America Movil Peru S.A.C. / Claro
 
