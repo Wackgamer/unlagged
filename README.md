@@ -123,6 +123,7 @@ Brazil (South America):
 - CERTTO TELECOMUNICAÇÕES LTDA EPP.
 - CLARO S.A.
 - Claronet
+- Claro NXT Telecomunicacoes Ltda
 - Conecta Tecnologia
 - Desktop Sigmanet Comunicação Multimídia SA
 - Flash Fibra
