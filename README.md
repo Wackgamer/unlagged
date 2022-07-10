@@ -72,6 +72,7 @@ Argentina (South America):
 - Pulsar Consulting
 - Red de Interconexion Universitaria
 - Red Intercable Digital
+- Red Intercable Digital S.A. / USHUAIA VISIÓN S.A
 - REDES DEL OESTE S.A
 - RSO APOLO HIDALGO S.R.L.
 - SION S.A / Sinectis S.A.
