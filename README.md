@@ -510,6 +510,7 @@ United States (North America):
 - Cox Communications Inc.
 - Dedicated.com
 - DoD
+- Edgecast Inc.
 - EdgeUno
 - Eli Lilly and Company
 - Fastly
