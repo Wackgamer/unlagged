@@ -114,6 +114,7 @@ Belgium (Europe):
 Bolivia (South America):
 - Comteco Ltda
 - Entel
+- Nuevatel PCS de Bolivia S.A. / NuevatelVL
 - Tigo / Telefonica Celular de Bolivia
 
 Brazil (South America):
