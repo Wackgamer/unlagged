@@ -120,6 +120,7 @@ Bolivia (South America):
 Brazil (South America):
 - Acesse Comunicação Ltda
 - Akamai International B.V. / Akamai Technologies, Inc.
+- APRIMORAR SUPORTE E TELEATENDIMENTO LTDA - ME
 - Avast
 - AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
 - BrasilNET Telecomunicações do Parana LTDA
