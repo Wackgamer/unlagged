@@ -155,6 +155,7 @@ Brazil (South America):
 - Telemar Norte Leste S.A.
 - TIM
 - Vivo / TELEFÔNICA BRASIL
+- VOA TELECOMUNICACOES EIRELI - EPP
 - W I X NET DO BRASIL LTDA - ME / QNAX LTDA
 - Zenlayer Inc
 
