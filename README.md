@@ -547,6 +547,7 @@ United States (North America):
 - Rackdog, LLC / Comcast Cable Communications, LLC
 - Rackspace Hosting
 - ReliableSite.Net LLC
+- SoftLayer Technologies, Inc.
 - Spectrum
 - StackPath
 - State of Wyoming Department A&I
