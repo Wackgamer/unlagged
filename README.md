@@ -149,6 +149,7 @@ Brazil (South America):
 - Mob Servicos de Telecomunicacoes
 - MOTTANET SCM - SERVICOS DE INTERNET, TECNOLOGIA
 - OI S.A. - EM RECUPERACAO JUDICIAL / Brasil Telecom S/A - Filial Distrito Federal
+- Rede Brasileira de Comunicacao S/A
 - S.F. GOMES TELECOMUNICACOES
 - Telemar Norte Leste S.A.
 - TIM
