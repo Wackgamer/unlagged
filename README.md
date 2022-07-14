@@ -46,6 +46,7 @@ Argentina (South America):
 - Datalink SRL
 - DOVAL MANUEL ANGEL (INETGAMING) / Mine Host
 - ETERNET
+- Facebook, Inc. / META PLATFORMS IRELAND LIMITED
 - FDCservers.net
 - Fibertel/Personal / Telecom Argentina / ALDERETE RIVAS JORDAN TOMAS SEBASTIAN (COMUNICATE INTERNET)
 - Gigared
