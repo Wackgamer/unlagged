@@ -346,6 +346,9 @@ Latvia (Europe):
 - Orion Network Limited
 - SIA "RMDK" / SIA RMDK
 
+Luxembourg (Europe):
+- Datacenter Luxembourg S.A. / MEGA LIMITED
+
 Malta (Europe):
 - Melita
 
