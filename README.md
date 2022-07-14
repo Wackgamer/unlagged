@@ -242,6 +242,7 @@ Denmark (Europe):
 Dominican Republic (Centre America):
 - ALTICE DOMINICANA S.A.
 - Claro / Compañía Dominicana de Teléfonos
+- Compañía Dominicana de Teléfonos S. A.
 
 Ecuador (South America):
 - CONEXIONTOTAL S.A.
