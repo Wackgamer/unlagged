@@ -115,6 +115,7 @@ Bolivia (South America):
 - Comteco Ltda
 - Entel
 - Nuevatel PCS de Bolivia S.A. / NuevatelVL
+- Telefónica Celular de Bolivia S.A.
 - Tigo / Telefonica Celular de Bolivia
 
 Brazil (South America):
