@@ -574,6 +574,7 @@ Uruguay (South America):
 Venezuela (South America):
 - CANTV
 - Corporación Telemic C.A.
+- CORPORACION VISUAL NUEVA ESPARTA, C.A
 - Gandalf Comunicaciones C.A.
 - NetLink América C.A.
 
