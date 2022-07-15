@@ -83,7 +83,7 @@ Argentina (South America):
 - Techtel LMDS Comunicaciones Interactivas S.A. / AMX Argentina S.A.
 - TECHTRON ARGENTINA S.A.
 - Telecentro
-- Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios / Coop.Obras y Serv. Publicos de Despeñaderos Ltda / Internet Services S.A. / RUBORNI S.A. / Apolo -Gold-Telecom-Per / ELSERVER.COM / Telecom BBIP / Telecom Acceso / Datacenter TELECOM
+- Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios / Coop.Obras y Serv. Publicos de Despeñaderos Ltda / Internet Services S.A. / RUBORNI S.A. / Apolo -Gold-Telecom-Per / ELSERVER.COM / Telecom BBIP / Telecom Acceso / Datacenter TELECOM / Telecom Personal Bs As
 - TELECOM ITALIA SPARKLE S.p.A.
 - Teledifusora S.A.
 - Telefonía Pública y Privada S.A.
