@@ -80,6 +80,7 @@ Argentina (South America):
 - RSO APOLO HIDALGO S.R.L.
 - SION S.A / Sinectis S.A.
 - Skycorp S.A. / MOSTAZA Y PAN SOCIEDAD ANONIMA
+- Techtel LMDS Comunicaciones Interactivas S.A. / AMX Argentina S.A.
 - TECHTRON ARGENTINA S.A.
 - Telecentro
 - Telecom Argentina S.A. / Universidad de Salta / Arnet-Servicios / Coop.Obras y Serv. Publicos de Despeñaderos Ltda / Internet Services S.A. / RUBORNI S.A. / Apolo -Gold-Telecom-Per / ELSERVER.COM / Telecom BBIP / Telecom Acceso / Datacenter TELECOM
