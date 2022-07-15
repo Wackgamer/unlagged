@@ -61,6 +61,7 @@ Argentina (South America):
 - LEVEL SEVEN SRL
 - Lima Video Cable S.A. (Cabletel)
 - Merco Comunicaciones
+- NETLATIN S.R.L.
 - Neunet S.A.
 - NODOSUD S.A
 - NORTECH
