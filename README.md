@@ -217,6 +217,7 @@ China (Asia):
 Colombia (South America):
 - Colombia Móvil / Tigo
 - COLOMBIA TELECOMUNICACIONES S.A. ESP
+- DIRECTV COLOMBIA LTDA.
 - EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 - EPM Telecomunicaciones S.A. E.S.P.
 - ETB
