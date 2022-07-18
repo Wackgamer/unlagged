@@ -185,6 +185,7 @@ Chile (South America):
 - CLARO CHILE S.A.
 - Entel PCS Telecomunicaciones
 - Google LLC
+- i3D.net B.V / Discord Inc.
 - LanProject SPA
 - miinternet
 - Movistar / TELEFÓNICA CHILE
