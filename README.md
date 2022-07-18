@@ -52,6 +52,7 @@ Argentina (South America):
 - Gigared
 - Gimenez Pedro Santiago (Clorindaconectada)
 - GRUPO BARONE
+- i3D.net B.V / Discord Inc.
 - InterBS S.R.L. (BAEHOST)
 - Interlink S.R.L.
 - Internet Para Todos - Gobierno de La Rioja
