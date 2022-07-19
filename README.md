@@ -423,6 +423,9 @@ Peru (South America):
 - Telefonica del Peru S.A.A. / PE-TDP-GRS
 - America Movil Peru S.A.C. / Claro
 
+Philippines (Asia):
+- Converge ICT Solutions Inc. / CONVERGE ICT Net blocks
+
 Poland (Europe):
 - Academic Computer Centre CYFRONET AGH
 - NEXET Sp. z o.o.
