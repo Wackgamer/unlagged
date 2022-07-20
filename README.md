@@ -58,7 +58,7 @@ Argentina (South America):
 - Internet Para Todos - Gobierno de La Rioja
 - Iperactive SA
 - LE FAVI DANIEL OSVALDO / ALFREDO TIJI (NITRONET)
-- Level 3 Parent, LLC / Asociaicion de Cooperativas Arg. Coop. Ltda.
+- Level 3 Parent, LLC / Asociaicion de Cooperativas Arg. Coop. Ltda. / Level 3 Argentina S.A.
 - LEVEL SEVEN SRL
 - Lima Video Cable S.A. (Cabletel)
 - Merco Comunicaciones
