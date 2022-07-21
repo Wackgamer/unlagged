@@ -308,6 +308,7 @@ Guatemala (Centre America):
 Honduras (Centre America):
 - Newcom Limited
 - Telefónica Celular
+- Telefónica Celular S.A
 
 India (Asia):
 - Amazon.com, Inc. / Amazon Data Services India
