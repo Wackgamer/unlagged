@@ -310,6 +310,7 @@ Honduras (Centre America):
 
 India (Asia):
 - Amazon.com, Inc. / Amazon Data Services India
+- Ishan's Network / Ishan Netsol Pvt Ltd
 - Sify Limited
 
 Iran (Asia):
