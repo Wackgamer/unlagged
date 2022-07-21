@@ -542,6 +542,7 @@ United States (North America):
 - EdgeUno
 - Eli Lilly and Company
 - Fastly
+- FranTech Solutions
 - Frontier Communications
 - GoDaddy.com, LLC / Jolt Media Inc.
 - Google LLC / Bitly Inc
