@@ -318,6 +318,9 @@ India (Asia):
 Iran (Asia):
 - Telecom
 
+Iraq (Middle East):
+- Orient Company for internet services LTD
+
 Ireland (Europe):
 - Amazon
 - Demonware Limited / Demonware infrastructure
