@@ -315,6 +315,9 @@ India (Asia):
 - Ishan's Network / Ishan Netsol Pvt Ltd
 - Sify Limited
 
+Indonesia (Asia):
+- PT. Telekomunikasi Selular / PT. Telekomunikasi Selular (Telkomsel) Indonesia
+
 Iran (Asia):
 - Telecom
 
