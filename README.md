@@ -591,7 +591,7 @@ United States (North America):
 - Zoom Video Communications, Inc
 
 Uruguay (South America):
-- Administracion Nacional de Telecomunicaciones / CLIENTE ANTEL URUGUAY
+- Administracion Nacional de Telecomunicaciones / CLIENTE ANTEL URUGUAY / ANCEL
 - Antel / Administracion Nacional de Telecomunicaciones
 - Tecnowind S.A.
 
