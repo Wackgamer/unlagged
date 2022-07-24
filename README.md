@@ -197,6 +197,7 @@ Chile (South America):
 - Telefonica del Sur
 - Telmex Chile Internet S.A.
 - Telmex Servicios Empresariales S.A. / Telmex Chile S.A HFC
+- TNA Solutions SpA
 - TV Cable Loncomilla S.A. / SOCIEDAD DE SERVICIOS DE COMUNICACIONES TECCOMAX LIMITADA
 - VTR Banda Ancha
 - WOM S.A / CONECT S.A
