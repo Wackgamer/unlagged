@@ -578,6 +578,7 @@ United States (North America):
 - Rackspace Hosting
 - ReliableSite.Net LLC
 - SoftLayer Technologies, Inc.
+- Sony Interactive Entertainment LLC
 - Spectrum
 - StackPath
 - State of Wyoming Department A&I
